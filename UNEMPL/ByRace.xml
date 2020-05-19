@@ -1,0 +1,944 @@
+<response>
+    <row>
+        <row _id="row-ajhn.m4be_47ap" _uuid="00000000-0000-0000-9289-7600B985A62D" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/08012011">
+            <record_id>08012011</record_id>
+            <date>2011-08-01T00:00:00</date>
+            <ina>3108</ina>
+            <white>42910</white>
+            <asian>478</asian>
+            <black_or_african_american>14546</black_or_african_american>
+            <american_indian_or_alaskan_native>400</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>622</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-ha4g~fktn-dqaa" _uuid="00000000-0000-0000-6C7B-3F296F49A2D3" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/07012011">
+            <record_id>07012011</record_id>
+            <date>2011-07-01T00:00:00</date>
+            <ina>3376</ina>
+            <white>46437</white>
+            <asian>556</asian>
+            <black_or_african_american>15386</black_or_african_american>
+            <american_indian_or_alaskan_native>454</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>612</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-h873.jk4g_ijpn" _uuid="00000000-0000-0000-FD9A-2AAF3B3E3708" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/09012011">
+            <record_id>09012011</record_id>
+            <date>2011-09-01T00:00:00</date>
+            <ina>2693</ina>
+            <white>37447</white>
+            <asian>415</asian>
+            <black_or_african_american>11993</black_or_african_american>
+            <american_indian_or_alaskan_native>348</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>585</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-3qjk-p5ni-bxj5" _uuid="00000000-0000-0000-0DBF-15C2E4F7759B" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/02012012">
+            <record_id>02012012</record_id>
+            <date>2012-02-01T00:00:00</date>
+            <ina>2958</ina>
+            <white>49351</white>
+            <asian>383</asian>
+            <black_or_african_american>10171</black_or_african_american>
+            <american_indian_or_alaskan_native>447</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>655</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-4p76.k4vh-6yen" _uuid="00000000-0000-0000-6FC8-AC7711AC77B2" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/10012011">
+            <record_id>10012011</record_id>
+            <date>2011-10-01T00:00:00</date>
+            <ina>2537</ina>
+            <white>35216</white>
+            <asian>404</asian>
+            <black_or_african_american>11331</black_or_african_american>
+            <american_indian_or_alaskan_native>323</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>543</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-ptm7-khdk-gqi7" _uuid="00000000-0000-0000-9F66-FCCC434A6905" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/11012011">
+            <record_id>11012011</record_id>
+            <date>2011-11-01T00:00:00</date>
+            <ina>2866</ina>
+            <white>41685</white>
+            <asian>433</asian>
+            <black_or_african_american>12349</black_or_african_american>
+            <american_indian_or_alaskan_native>425</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>578</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-pagp-kq37~22tv" _uuid="00000000-0000-0000-3452-B78143C09F90" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/12012011">
+            <record_id>12012011</record_id>
+            <date>2011-12-01T00:00:00</date>
+            <ina>2913</ina>
+            <white>43011</white>
+            <asian>398</asian>
+            <black_or_african_american>10526</black_or_african_american>
+            <american_indian_or_alaskan_native>438</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>639</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-7tfc~7ts8~deip" _uuid="00000000-0000-0000-DCA8-F9E98A9B3A0C" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/01012012">
+            <record_id>01012012</record_id>
+            <date>2012-01-01T00:00:00</date>
+            <ina>3207</ina>
+            <white>51999</white>
+            <asian>465</asian>
+            <black_or_african_american>11051</black_or_african_american>
+            <american_indian_or_alaskan_native>532</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>727</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-ikck-vdjj_pskr" _uuid="00000000-0000-0000-0F4E-904837F5EAFD" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/03012012">
+            <record_id>03012012</record_id>
+            <date>2012-03-01T00:00:00</date>
+            <ina>2667</ina>
+            <white>41707</white>
+            <asian>363</asian>
+            <black_or_african_american>9879</black_or_african_american>
+            <american_indian_or_alaskan_native>417</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>612</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-m3yq_bta8-8iab" _uuid="00000000-0000-0000-607C-0C8D92FB2D73" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/06012012">
+            <record_id>06012012</record_id>
+            <date>2012-06-01T00:00:00</date>
+            <ina>3532</ina>
+            <white>34609</white>
+            <asian>386</asian>
+            <black_or_african_american>10733</black_or_african_american>
+            <american_indian_or_alaskan_native>344</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>556</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-fsg8-24sr~kbbw" _uuid="00000000-0000-0000-4EFC-718298AD2B94" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/07012012">
+            <record_id>07012012</record_id>
+            <date>2012-07-01T00:00:00</date>
+            <ina>3696</ina>
+            <white>36887</white>
+            <asian>517</asian>
+            <black_or_african_american>11979</black_or_african_american>
+            <american_indian_or_alaskan_native>365</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>546</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-bpmt_naxm-u9mt" _uuid="00000000-0000-0000-460A-007B1B526EE9" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/05012012">
+            <record_id>05012012</record_id>
+            <date>2012-05-01T00:00:00</date>
+            <ina>3550</ina>
+            <white>33072</white>
+            <asian>312</asian>
+            <black_or_african_american>9648</black_or_african_american>
+            <american_indian_or_alaskan_native>313</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>542</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-8zvy-i9ij-paja" _uuid="00000000-0000-0000-0ADA-3C873679BEEF" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/04012012">
+            <record_id>04012012</record_id>
+            <date>2012-04-01T00:00:00</date>
+            <ina>2355</ina>
+            <white>34786</white>
+            <asian>336</asian>
+            <black_or_african_american>9566</black_or_african_american>
+            <american_indian_or_alaskan_native>341</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>558</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-qugt.wcvb~fsuv" _uuid="00000000-0000-0000-DE99-49F2BBD62501" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/08012012">
+            <record_id>08012012</record_id>
+            <date>2012-08-01T00:00:00</date>
+            <ina>3264</ina>
+            <white>33287</white>
+            <asian>415</asian>
+            <black_or_african_american>11019</black_or_african_american>
+            <american_indian_or_alaskan_native>370</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>525</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-kfvv-ycu3-62fx" _uuid="00000000-0000-0000-1FA6-09F9C2EF529A" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/09012012">
+            <record_id>09012012</record_id>
+            <date>2012-09-01T00:00:00</date>
+            <ina>3789</ina>
+            <white>31823</white>
+            <asian>433</asian>
+            <black_or_african_american>10016</black_or_african_american>
+            <american_indian_or_alaskan_native>355</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>512</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-iie2_t6t3-br6j" _uuid="00000000-0000-0000-A8D9-F25840C6F850" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/10012012">
+            <record_id>10012012</record_id>
+            <date>2012-10-01T00:00:00</date>
+            <ina>2268</ina>
+            <white>28671</white>
+            <asian>366</asian>
+            <black_or_african_american>9112</black_or_african_american>
+            <american_indian_or_alaskan_native>321</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>463</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-mhqm.3acy-9x4j" _uuid="00000000-0000-0000-E941-0BB81589370A" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/11012012">
+            <record_id>11012012</record_id>
+            <date>2012-11-01T00:00:00</date>
+            <ina>2170</ina>
+            <white>26594</white>
+            <asian>280</asian>
+            <black_or_african_american>7856</black_or_african_american>
+            <american_indian_or_alaskan_native>296</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>437</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-z53y~x8gm_4rkz" _uuid="00000000-0000-0000-B7B8-8BB6E29A873E" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/12012012">
+            <record_id>12012012</record_id>
+            <date>2012-12-01T00:00:00</date>
+            <ina>2897</ina>
+            <white>37995</white>
+            <asian>415</asian>
+            <black_or_african_american>10359</black_or_african_american>
+            <american_indian_or_alaskan_native>421</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>580</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-rsfs~4big~3kxe" _uuid="00000000-0000-0000-239C-4B6BFA5C3A25" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/01012013">
+            <record_id>01012013</record_id>
+            <date>2013-01-01T00:00:00</date>
+            <ina>3648</ina>
+            <white>49457</white>
+            <asian>425</asian>
+            <black_or_african_american>11091</black_or_african_american>
+            <american_indian_or_alaskan_native>451</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>670</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-uqbv-ya63_xxne" _uuid="00000000-0000-0000-1E54-750A71D5DBB3" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/02012013">
+            <record_id>02012013</record_id>
+            <date>2013-02-01T00:00:00</date>
+            <ina>2946</ina>
+            <white>43189</white>
+            <asian>384</asian>
+            <black_or_african_american>9705</black_or_african_american>
+            <american_indian_or_alaskan_native>410</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>569</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-m7gq.38pc_mbhm" _uuid="00000000-0000-0000-7AC5-9E8F146AF7CC" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/04012013">
+            <record_id>04012013</record_id>
+            <date>2013-04-01T00:00:00</date>
+            <ina>2942</ina>
+            <white>31335</white>
+            <asian>341</asian>
+            <black_or_african_american>8508</black_or_african_american>
+            <american_indian_or_alaskan_native>311</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>526</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-6bs6.fvsg-q4ww" _uuid="00000000-0000-0000-126B-990B40E506D7" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/05012013">
+            <record_id>05012013</record_id>
+            <date>2013-05-01T00:00:00</date>
+            <ina>6972</ina>
+            <white>25063</white>
+            <asian>261</asian>
+            <black_or_african_american>7152</black_or_african_american>
+            <american_indian_or_alaskan_native>245</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>441</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-mzei_nd6r-gr3u" _uuid="00000000-0000-0000-BC0E-85885FC1FD25" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/06012013">
+            <record_id>06012013</record_id>
+            <date>2013-06-01T00:00:00</date>
+            <ina>10506</ina>
+            <white>26158</white>
+            <asian>272</asian>
+            <black_or_african_american>7729</black_or_african_american>
+            <american_indian_or_alaskan_native>285</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>429</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-3vhn_6nmh.wyzi" _uuid="00000000-0000-0000-CB6A-608644CFE360" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/07012013">
+            <record_id>07012013</record_id>
+            <date>2013-07-01T00:00:00</date>
+            <ina>13053</ina>
+            <white>25596</white>
+            <asian>319</asian>
+            <black_or_african_american>7546</black_or_african_american>
+            <american_indian_or_alaskan_native>277</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>438</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-jkci.i6h7_5s9n" _uuid="00000000-0000-0000-141C-7035B73F1007" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/08012013">
+            <record_id>08012013</record_id>
+            <date>2013-08-01T00:00:00</date>
+            <ina>13724</ina>
+            <white>23751</white>
+            <asian>261</asian>
+            <black_or_african_american>6410</black_or_african_american>
+            <american_indian_or_alaskan_native>255</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>418</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-krdc-rk4i_icif" _uuid="00000000-0000-0000-9BDF-1471B40E49DE" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/09012013">
+            <record_id>09012013</record_id>
+            <date>2013-09-01T00:00:00</date>
+            <ina>12924</ina>
+            <white>19895</white>
+            <asian>256</asian>
+            <black_or_african_american>4931</black_or_african_american>
+            <american_indian_or_alaskan_native>214</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>398</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-6zzk_486y_k3xx" _uuid="00000000-0000-0000-193E-1FDE803DB40A" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/10012013">
+            <record_id>10012013</record_id>
+            <date>2013-10-01T00:00:00</date>
+            <ina>12550</ina>
+            <white>18760</white>
+            <asian>206</asian>
+            <black_or_african_american>4540</black_or_african_american>
+            <american_indian_or_alaskan_native>215</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>358</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-kybb-ddcp.hnuc" _uuid="00000000-0000-0000-14F5-B8BF6604EBDD" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/11012013">
+            <record_id>11012013</record_id>
+            <date>2013-11-01T00:00:00</date>
+            <ina>13765</ina>
+            <white>21227</white>
+            <asian>206</asian>
+            <black_or_african_american>4772</black_or_african_american>
+            <american_indian_or_alaskan_native>251</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>373</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-im8f_psfm.jmug" _uuid="00000000-0000-0000-EEE1-7B704B96B024" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/12012013">
+            <record_id>12012013</record_id>
+            <date>2013-12-01T00:00:00</date>
+            <ina>14531</ina>
+            <white>25990</white>
+            <asian>233</asian>
+            <black_or_african_american>4911</black_or_african_american>
+            <american_indian_or_alaskan_native>267</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>509</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-mnkg~62yw~4d6x" _uuid="00000000-0000-0000-5E4E-00EBC962C1DA" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/01012014">
+            <record_id>01012014</record_id>
+            <date>2014-01-01T00:00:00</date>
+            <ina>19012</ina>
+            <white>34000</white>
+            <asian>260</asian>
+            <black_or_african_american>6007</black_or_african_american>
+            <american_indian_or_alaskan_native>326</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>565</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-mp44_5ds8-m94b" _uuid="00000000-0000-0000-F6AC-D9ACEF159E88" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/02012014">
+            <record_id>02012014</record_id>
+            <date>2014-02-01T00:00:00</date>
+            <ina>19822</ina>
+            <white>34028</white>
+            <asian>272</asian>
+            <black_or_african_american>5553</black_or_african_american>
+            <american_indian_or_alaskan_native>326</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>527</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-q4f7.vkyg-97dr" _uuid="00000000-0000-0000-BA74-B141D77FE62E" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/03012014">
+            <record_id>03012014</record_id>
+            <date>2014-03-01T00:00:00</date>
+            <ina>16126</ina>
+            <white>25455</white>
+            <asian>251</asian>
+            <black_or_african_american>4986</black_or_african_american>
+            <american_indian_or_alaskan_native>239</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>434</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-jdnx.d946-wbuf" _uuid="00000000-0000-0000-291D-5BD06BDFAFAE" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/04012014">
+            <record_id>04012014</record_id>
+            <date>2014-04-01T00:00:00</date>
+            <ina>12823</ina>
+            <white>19313</white>
+            <asian>200</asian>
+            <black_or_african_american>4229</black_or_african_american>
+            <american_indian_or_alaskan_native>182</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>350</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-9azt-7qkk~rfw8" _uuid="00000000-0000-0000-87EE-427DF1AD0554" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/05012014">
+            <record_id>05012014</record_id>
+            <date>2014-05-01T00:00:00</date>
+            <ina>12333</ina>
+            <white>17680</white>
+            <asian>201</asian>
+            <black_or_african_american>4441</black_or_african_american>
+            <american_indian_or_alaskan_native>176</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>380</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-bttr-vm4t-as7s" _uuid="00000000-0000-0000-298B-0CCA097DA822" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/06012014">
+            <record_id>06012014</record_id>
+            <date>2014-06-01T00:00:00</date>
+            <ina>10508</ina>
+            <white>21029</white>
+            <asian>213</asian>
+            <black_or_african_american>6191</black_or_african_american>
+            <american_indian_or_alaskan_native>210</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>647</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-3pps~3g86-biym" _uuid="00000000-0000-0000-CE91-A56F2DC04CF9" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/07012014">
+            <record_id>07012014</record_id>
+            <date>2014-07-01T00:00:00</date>
+            <ina>8915</ina>
+            <white>22121</white>
+            <asian>235</asian>
+            <black_or_african_american>7385</black_or_african_american>
+            <american_indian_or_alaskan_native>206</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>836</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-77ep-i7ih~p27f" _uuid="00000000-0000-0000-7A51-497FEBF31777" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/08012014">
+            <record_id>08012014</record_id>
+            <date>2014-08-01T00:00:00</date>
+            <ina>6242</ina>
+            <white>20778</white>
+            <asian>230</asian>
+            <black_or_african_american>7380</black_or_african_american>
+            <american_indian_or_alaskan_native>236</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>947</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-zjnt_as5y~ns6u" _uuid="00000000-0000-0000-79FA-DB7A310C30E3" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/09012014">
+            <record_id>09012014</record_id>
+            <date>2014-09-01T00:00:00</date>
+            <ina>4830</ina>
+            <white>19087</white>
+            <asian>193</asian>
+            <black_or_african_american>6764</black_or_african_american>
+            <american_indian_or_alaskan_native>217</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>884</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-uy4h_hk93-f2wh" _uuid="00000000-0000-0000-B65E-01BE5CF1ADE5" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/10012014">
+            <record_id>10012014</record_id>
+            <date>2014-10-01T00:00:00</date>
+            <ina>3652</ina>
+            <white>18701</white>
+            <asian>182</asian>
+            <black_or_african_american>6872</black_or_african_american>
+            <american_indian_or_alaskan_native>236</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>962</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-dhaj~x2ia~d7nb" _uuid="00000000-0000-0000-A615-5E215431BD8B" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/11012014">
+            <record_id>11012014</record_id>
+            <date>2014-11-01T00:00:00</date>
+            <ina>3651</ina>
+            <white>20497</white>
+            <asian>197</asian>
+            <black_or_african_american>6657</black_or_african_american>
+            <american_indian_or_alaskan_native>182</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>1073</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-qw8u-qex8_ehmm" _uuid="00000000-0000-0000-2C58-B8FC6F20A614" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/12012014">
+            <record_id>12012014</record_id>
+            <date>2014-12-01T00:00:00</date>
+            <ina>4213</ina>
+            <white>23800</white>
+            <asian>181</asian>
+            <black_or_african_american>6406</black_or_african_american>
+            <american_indian_or_alaskan_native>216</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>1183</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-cih7~ygcc~be5i" _uuid="00000000-0000-0000-3098-DF50B5BC9BF6" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/01012015">
+            <record_id>01012015</record_id>
+            <date>2015-01-01T00:00:00</date>
+            <ina>6103</ina>
+            <white>34277</white>
+            <asian>251</asian>
+            <black_or_african_american>7204</black_or_african_american>
+            <american_indian_or_alaskan_native>284</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>1348</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-3za4.ea4v-ivcv" _uuid="00000000-0000-0000-579E-A3F432268FE8" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/02012015">
+            <record_id>02012015</record_id>
+            <date>2015-02-01T00:00:00</date>
+            <ina>5610</ina>
+            <white>32297</white>
+            <asian>230</asian>
+            <black_or_african_american>7041</black_or_african_american>
+            <american_indian_or_alaskan_native>285</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>1355</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-phr9_ga9d-ckd6" _uuid="00000000-0000-0000-1A2E-B14C82D02990" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/03012015">
+            <record_id>03012015</record_id>
+            <date>2015-03-01T00:00:00</date>
+            <ina>3614</ina>
+            <white>27954</white>
+            <asian>211</asian>
+            <black_or_african_american>6591</black_or_african_american>
+            <american_indian_or_alaskan_native>218</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>1187</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-ezps.ssfm_9eqf" _uuid="00000000-0000-0000-AD5E-405EEED32080" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/04012015">
+            <record_id>04012015</record_id>
+            <date>2015-04-01T00:00:00</date>
+            <ina>2300</ina>
+            <white>20220</white>
+            <asian>200</asian>
+            <black_or_african_american>6129</black_or_african_american>
+            <american_indian_or_alaskan_native>203</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>969</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-ghk3_a4xe.ngvj" _uuid="00000000-0000-0000-81DB-DF1C9E46C207" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/05012015">
+            <record_id>05012015</record_id>
+            <date>2015-05-01T00:00:00</date>
+            <ina>2069</ina>
+            <white>18521</white>
+            <asian>180</asian>
+            <black_or_african_american>5796</black_or_african_american>
+            <american_indian_or_alaskan_native>177</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>985</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-j2sn-faxx-nd4b" _uuid="00000000-0000-0000-3E72-95AF7CB9F3A7" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/06012015">
+            <record_id>06012015</record_id>
+            <date>2015-06-01T00:00:00</date>
+            <ina>2871</ina>
+            <white>21355</white>
+            <asian>201</asian>
+            <black_or_african_american>7076</black_or_african_american>
+            <american_indian_or_alaskan_native>198</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>1149</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-nwzg_fg89~un68" _uuid="00000000-0000-0000-AA4A-DA8F621DD488" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/07012015">
+            <record_id>07012015</record_id>
+            <date>2015-07-01T00:00:00</date>
+            <ina>2878</ina>
+            <white>21539</white>
+            <asian>209</asian>
+            <black_or_african_american>7725</black_or_african_american>
+            <american_indian_or_alaskan_native>230</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>1258</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-zrrr-aw99-84cr" _uuid="00000000-0000-0000-D895-C88FA6C8336F" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/08012015">
+            <record_id>08012015</record_id>
+            <date>2015-08-01T00:00:00</date>
+            <ina>2581</ina>
+            <white>20762</white>
+            <asian>189</asian>
+            <black_or_african_american>7752</black_or_african_american>
+            <american_indian_or_alaskan_native>230</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>1182</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-waan~z39c-hgmu" _uuid="00000000-0000-0000-00A7-69862D113612" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/09012015">
+            <record_id>09012015</record_id>
+            <date>2015-09-01T00:00:00</date>
+            <ina>1849</ina>
+            <white>17034</white>
+            <asian>206</asian>
+            <black_or_african_american>6176</black_or_african_american>
+            <american_indian_or_alaskan_native>184</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>963</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-eiaz~xdw7.gniu" _uuid="00000000-0000-0000-6302-702E4281E084" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/10012015">
+            <record_id>10012015</record_id>
+            <date>2015-10-01T00:00:00</date>
+            <ina>1739</ina>
+            <white>15943</white>
+            <asian>178</asian>
+            <black_or_african_american>5595</black_or_african_american>
+            <american_indian_or_alaskan_native>176</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>950</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-iiut_bvs2-ygpk" _uuid="00000000-0000-0000-EC6C-D90061BF5B71" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/11012015">
+            <record_id>11012015</record_id>
+            <date>2015-11-01T00:00:00</date>
+            <ina>1817</ina>
+            <white>17319</white>
+            <asian>194</asian>
+            <black_or_african_american>5542</black_or_african_american>
+            <american_indian_or_alaskan_native>197</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>978</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-pzpp.ctyw.vzud" _uuid="00000000-0000-0000-1147-850DC9E6766F" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/01012016">
+            <record_id>01012016</record_id>
+            <date>2016-01-01T00:00:00</date>
+            <ina>3481</ina>
+            <white>29409</white>
+            <asian>217</asian>
+            <black_or_african_american>6926</black_or_african_american>
+            <american_indian_or_alaskan_native>284</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>1410</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-f8c9-a6wf-6bs4" _uuid="00000000-0000-0000-B2C3-ED122B2C830C" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/02012016">
+            <record_id>02012016</record_id>
+            <date>2016-02-01T00:00:00</date>
+            <ina>2861</ina>
+            <white>30574</white>
+            <asian>205</asian>
+            <black_or_african_american>6646</black_or_african_american>
+            <american_indian_or_alaskan_native>267</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>1422</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-fpsn.gu6c-vhkf" _uuid="00000000-0000-0000-D040-CF227D467467" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/03012016">
+            <record_id>03012016</record_id>
+            <date>2016-03-01T00:00:00</date>
+            <ina>2056</ina>
+            <white>22289</white>
+            <asian>181</asian>
+            <black_or_african_american>5738</black_or_african_american>
+            <american_indian_or_alaskan_native>175</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>1125</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-t99v~t765_6r4q" _uuid="00000000-0000-0000-7963-FFD3B031A234" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/04012016">
+            <record_id>04012016</record_id>
+            <date>2016-04-01T00:00:00</date>
+            <ina>1402</ina>
+            <white>14699</white>
+            <asian>153</asian>
+            <black_or_african_american>4883</black_or_african_american>
+            <american_indian_or_alaskan_native>139</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>932</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-gdra-runh-3ce4" _uuid="00000000-0000-0000-B6C5-859337422A79" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/05012016">
+            <record_id>05012016</record_id>
+            <date>2016-05-01T00:00:00</date>
+            <ina>2810</ina>
+            <white>13851</white>
+            <asian>128</asian>
+            <black_or_african_american>5006</black_or_african_american>
+            <american_indian_or_alaskan_native>136</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>938</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-ub9s-w24m-mj6h" _uuid="00000000-0000-0000-9D62-42E9F7F698EA" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/06012016">
+            <record_id>06012016</record_id>
+            <date>2016-06-01T00:00:00</date>
+            <ina>1821</ina>
+            <white>16057</white>
+            <asian>113</asian>
+            <black_or_african_american>6131</black_or_african_american>
+            <american_indian_or_alaskan_native>168</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>1114</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-if7t~8567-9rsh" _uuid="00000000-0000-0000-1E4C-2EB0EA5A8B12" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/08012016">
+            <record_id>08012016</record_id>
+            <date>2016-08-01T00:00:00</date>
+            <ina>2055</ina>
+            <white>20122</white>
+            <asian>173</asian>
+            <black_or_african_american>7644</black_or_african_american>
+            <american_indian_or_alaskan_native>193</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>1357</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-f7pt_ifv6~yjyg" _uuid="00000000-0000-0000-8B88-576A8425637E" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/09012016">
+            <record_id>09012016</record_id>
+            <date>2016-09-01T00:00:00</date>
+            <ina>1560</ina>
+            <white>15971</white>
+            <asian>170</asian>
+            <black_or_african_american>5933</black_or_african_american>
+            <american_indian_or_alaskan_native>163</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>1092</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-7tv3_ypv8~gbpk" _uuid="00000000-0000-0000-D407-9063373AE073" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/12012016">
+            <record_id>12012016</record_id>
+            <date>2016-12-01T00:00:00</date>
+            <ina>2299</ina>
+            <white>19668</white>
+            <asian>278</asian>
+            <black_or_african_american>5718</black_or_african_american>
+            <american_indian_or_alaskan_native>168</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>710</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-i5wr.cy6j.cjdd" _uuid="00000000-0000-0000-E0E7-DF976C515272" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/01012017">
+            <record_id>01012017</record_id>
+            <date>2017-01-01T00:00:00</date>
+            <ina>3287</ina>
+            <white>26362</white>
+            <asian>392</asian>
+            <black_or_african_american>6461</black_or_african_american>
+            <american_indian_or_alaskan_native>226</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>704</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-bayd-7aec_8xjn" _uuid="00000000-0000-0000-5B5F-24203FC583F0" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/02012017">
+            <record_id>02012017</record_id>
+            <date>2017-02-01T00:00:00</date>
+            <ina>3761</ina>
+            <white>23973</white>
+            <asian>314</asian>
+            <black_or_african_american>5913</black_or_african_american>
+            <american_indian_or_alaskan_native>194</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>503</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-c7t5~u5v6_3mey" _uuid="00000000-0000-0000-5F22-8EAAD569BFD8" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/03012017">
+            <record_id>03012017</record_id>
+            <date>2017-03-01T00:00:00</date>
+            <ina>3158</ina>
+            <white>19899</white>
+            <asian>271</asian>
+            <black_or_african_american>6207</black_or_african_american>
+            <american_indian_or_alaskan_native>168</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>412</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-xrvx-prk9-qz99" _uuid="00000000-0000-0000-55EF-2F57623CE3CA" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/04012017">
+            <record_id>04012017</record_id>
+            <date>2017-04-01T00:00:00</date>
+            <ina>2562</ina>
+            <white>15719</white>
+            <asian>215</asian>
+            <black_or_african_american>5196</black_or_african_american>
+            <american_indian_or_alaskan_native>147</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>255</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-6kcq.vqre-rsh7" _uuid="00000000-0000-0000-5FD5-F503A357D12B" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/05012017">
+            <record_id>05012017</record_id>
+            <date>2017-05-01T00:00:00</date>
+            <ina>2632</ina>
+            <white>14930</white>
+            <asian>209</asian>
+            <black_or_african_american>5262</black_or_african_american>
+            <american_indian_or_alaskan_native>143</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>265</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-89f7.ryam.wd4v" _uuid="00000000-0000-0000-A4AA-12C37D381F9F" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/06012017">
+            <record_id>06012017</record_id>
+            <date>2017-06-01T00:00:00</date>
+            <ina>3188</ina>
+            <white>17337</white>
+            <asian>217</asian>
+            <black_or_african_american>6459</black_or_african_american>
+            <american_indian_or_alaskan_native>178</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>307</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-gbw7-s55y-u444" _uuid="00000000-0000-0000-7821-0F94944486D7" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/07012017">
+            <record_id>07012017</record_id>
+            <date>2017-07-01T00:00:00</date>
+            <ina>4322</ina>
+            <white>19189</white>
+            <asian>267</asian>
+            <black_or_african_american>7512</black_or_african_american>
+            <american_indian_or_alaskan_native>176</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>375</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-bxmd_9f2d.rbna" _uuid="00000000-0000-0000-57BC-85D6E9BC0661" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/08012017">
+            <record_id>08012017</record_id>
+            <date>2017-08-01T00:00:00</date>
+            <ina>3395</ina>
+            <white>17193</white>
+            <asian>216</asian>
+            <black_or_african_american>6994</black_or_african_american>
+            <american_indian_or_alaskan_native>171</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>316</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-xusf.uddg.vc5c" _uuid="00000000-0000-0000-0BD9-DB851EB80551" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/09012017">
+            <record_id>09012017</record_id>
+            <date>2017-09-01T00:00:00</date>
+            <ina>2513</ina>
+            <white>12939</white>
+            <asian>166</asian>
+            <black_or_african_american>4821</black_or_african_american>
+            <american_indian_or_alaskan_native>123</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>183</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-ti9n-9k9t.3k2x" _uuid="00000000-0000-0000-BA40-AD221D33650D" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/10012017">
+            <record_id>10012017</record_id>
+            <date>2017-10-01T00:00:00</date>
+            <ina>3963</ina>
+            <white>14759</white>
+            <asian>177</asian>
+            <black_or_african_american>5846</black_or_african_american>
+            <american_indian_or_alaskan_native>148</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>239</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-xgtg_sr7z_punz" _uuid="00000000-0000-0000-1AB1-62FC31ABEADF" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/11012017">
+            <record_id>11012017</record_id>
+            <date>2017-11-01T00:00:00</date>
+            <ina>3869</ina>
+            <white>15182</white>
+            <asian>183</asian>
+            <black_or_african_american>5265</black_or_african_american>
+            <american_indian_or_alaskan_native>147</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>212</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-97a7_ccit-f9b8" _uuid="00000000-0000-0000-1537-C3C7C026B1BD" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/12012017">
+            <record_id>12012017</record_id>
+            <date>2017-12-01T00:00:00</date>
+            <ina>3078</ina>
+            <white>17362</white>
+            <asian>182</asian>
+            <black_or_african_american>5287</black_or_african_american>
+            <american_indian_or_alaskan_native>179</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>222</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-9mq3~sr22~esnd" _uuid="00000000-0000-0000-0EBF-6A4CF23BF774" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/01012018">
+            <record_id>01012018</record_id>
+            <date>2018-01-01T00:00:00</date>
+            <ina>4038</ina>
+            <white>26119</white>
+            <asian>210</asian>
+            <black_or_african_american>6097</black_or_african_american>
+            <american_indian_or_alaskan_native>237</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>283</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-fhpv-a4q4~wwtd" _uuid="00000000-0000-0000-97D7-FC506F8FB8FB" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/02012018">
+            <record_id>02012018</record_id>
+            <date>2018-02-01T00:00:00</date>
+            <ina>3716</ina>
+            <white>23207</white>
+            <asian>169</asian>
+            <black_or_african_american>5461</black_or_african_american>
+            <american_indian_or_alaskan_native>224</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>225</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-mqxf_qmqh_w9ck" _uuid="00000000-0000-0000-8376-23F0C703FAF8" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/03012018">
+            <record_id>03012018</record_id>
+            <date>2018-03-01T00:00:00</date>
+            <ina>3161</ina>
+            <white>17549</white>
+            <asian>147</asian>
+            <black_or_african_american>5015</black_or_african_american>
+            <american_indian_or_alaskan_native>173</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>186</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-rq3s~tazp~msci" _uuid="00000000-0000-0000-FCB1-0BB3CDD45336" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/04012018">
+            <record_id>04012018</record_id>
+            <date>2018-04-01T00:00:00</date>
+            <ina>2636</ina>
+            <white>14149</white>
+            <asian>133</asian>
+            <black_or_african_american>4636</black_or_african_american>
+            <american_indian_or_alaskan_native>148</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>126</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-d2k8_pjkw.24ph" _uuid="00000000-0000-0000-9D47-A2079D7BBA82" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/05012018">
+            <record_id>05012018</record_id>
+            <date>2018-05-01T00:00:00</date>
+            <ina>3822</ina>
+            <white>14110</white>
+            <asian>159</asian>
+            <black_or_african_american>5153</black_or_african_american>
+            <american_indian_or_alaskan_native>157</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>169</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-ztsg~u38w_2dff" _uuid="00000000-0000-0000-54B3-6B6D5E153293" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/06012018">
+            <record_id>06012018</record_id>
+            <date>2018-06-01T00:00:00</date>
+            <ina>3013</ina>
+            <white>15008</white>
+            <asian>174</asian>
+            <black_or_african_american>5854</black_or_african_american>
+            <american_indian_or_alaskan_native>153</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>204</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-m3xj_dmn8_caju" _uuid="00000000-0000-0000-FB8F-22A6F8B7480A" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/07012018">
+            <record_id>07012018</record_id>
+            <date>2018-07-01T00:00:00</date>
+            <ina>3452</ina>
+            <white>16389</white>
+            <asian>209</asian>
+            <black_or_african_american>6700</black_or_african_american>
+            <american_indian_or_alaskan_native>163</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>210</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-3zwy_hq9h~2tvk" _uuid="00000000-0000-0000-F227-4E83CC78AF9F" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/08012018">
+            <record_id>08012018</record_id>
+            <date>2018-08-01T00:00:00</date>
+            <ina>2642</ina>
+            <white>13087</white>
+            <asian>199</asian>
+            <black_or_african_american>5237</black_or_african_american>
+            <american_indian_or_alaskan_native>135</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>134</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-2qsb.72q6_9zcp" _uuid="00000000-0000-0000-BA03-7BCEA9F6BCDE" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/09012018">
+            <record_id>09012018</record_id>
+            <date>2018-09-01T00:00:00</date>
+            <ina>2388</ina>
+            <white>10951</white>
+            <asian>141</asian>
+            <black_or_african_american>4419</black_or_african_american>
+            <american_indian_or_alaskan_native>129</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>100</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-hkk8_6st8~t5xg" _uuid="00000000-0000-0000-BFC6-CB318D3A4A54" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/10012018">
+            <record_id>10012018</record_id>
+            <date>2018-10-01T00:00:00</date>
+            <ina>2389</ina>
+            <white>10994</white>
+            <asian>131</asian>
+            <black_or_african_american>4479</black_or_african_american>
+            <american_indian_or_alaskan_native>120</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>116</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-anms_xir8_np9b" _uuid="00000000-0000-0000-B1CA-0528602E4C0B" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/11012018">
+            <record_id>11012018</record_id>
+            <date>2018-11-01T00:00:00</date>
+            <ina>2461</ina>
+            <white>12102</white>
+            <asian>127</asian>
+            <black_or_african_american>4015</black_or_african_american>
+            <american_indian_or_alaskan_native>128</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>132</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-u2xp.4gui_ptpt" _uuid="00000000-0000-0000-0076-1B6BC873CC99" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/12012018">
+            <record_id>12012018</record_id>
+            <date>2018-12-01T00:00:00</date>
+            <ina>3072</ina>
+            <white>14935</white>
+            <asian>141</asian>
+            <black_or_african_american>4348</black_or_african_american>
+            <american_indian_or_alaskan_native>161</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>157</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-m8gz-ftpb~yzei" _uuid="00000000-0000-0000-2C18-595023BEBA82" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/01012019">
+            <record_id>01012019</record_id>
+            <date>2019-01-01T00:00:00</date>
+            <ina>3976</ina>
+            <white>20752</white>
+            <asian>221</asian>
+            <black_or_african_american>5531</black_or_african_american>
+            <american_indian_or_alaskan_native>214</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>200</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-34wp-pcy4_wf6p" _uuid="00000000-0000-0000-8E99-4283C7BACF4F" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/07012019">
+            <record_id>07012019</record_id>
+            <date>2019-07-01T00:00:00</date>
+            <ina>3295</ina>
+            <white>14769</white>
+            <asian>248</asian>
+            <black_or_african_american>6206</black_or_african_american>
+            <american_indian_or_alaskan_native>149</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>178</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-3m6k-4fiv_dpre" _uuid="00000000-0000-0000-84C8-E99BEC108594" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/07012019">
+            <record_id>07012019</record_id>
+            <date>2019-07-01T00:00:00</date>
+            <ina>3295</ina>
+            <white>14769</white>
+            <asian>248</asian>
+            <black_or_african_american>6206</black_or_african_american>
+            <american_indian_or_alaskan_native>149</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>178</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-nkkq_jgk2_bi8s" _uuid="00000000-0000-0000-702E-ADC080CFCF47" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/08012019">
+            <record_id>08012019</record_id>
+            <date>2019-08-01T00:00:00</date>
+            <ina>2387</ina>
+            <white>11696</white>
+            <asian>193</asian>
+            <black_or_african_american>4481</black_or_african_american>
+            <american_indian_or_alaskan_native>119</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>136</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-qvec-m7ez_estn" _uuid="00000000-0000-0000-B310-8CA398054946" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/11012019">
+            <record_id>11012019</record_id>
+            <date>2019-11-01T00:00:00</date>
+            <ina>2384</ina>
+            <white>12000</white>
+            <asian>136</asian>
+            <black_or_african_american>3750</black_or_african_american>
+            <american_indian_or_alaskan_native>117</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>104</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-ud4b-sb94_mp2b" _uuid="00000000-0000-0000-C5E9-FC833B0655EF" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/12012019">
+            <record_id>12012019</record_id>
+            <date>2019-12-01T00:00:00</date>
+            <ina>2531</ina>
+            <white>13536</white>
+            <asian>141</asian>
+            <black_or_african_american>3680</black_or_african_american>
+            <american_indian_or_alaskan_native>119</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>103</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-mxjt_kc78_mhkv" _uuid="00000000-0000-0000-FA35-2B85C7BCA53B" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/01012020">
+            <record_id>01012020</record_id>
+            <date>2020-01-01T00:00:00</date>
+            <ina>3918</ina>
+            <white>20186</white>
+            <asian>156</asian>
+            <black_or_african_american>5097</black_or_african_american>
+            <american_indian_or_alaskan_native>176</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>141</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-qt9t.cab2~ctfz" _uuid="00000000-0000-0000-F767-AF16CD45EE20" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/02012020">
+            <record_id>02012020</record_id>
+            <date>2020-02-01T00:00:00</date>
+            <ina>3274</ina>
+            <white>19539</white>
+            <asian>149</asian>
+            <black_or_african_american>4187</black_or_african_american>
+            <american_indian_or_alaskan_native>188</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>136</native_hawaiian_or_other_pacific_islander>
+        </row>
+        <row _id="row-ycep.7kdy-9try" _uuid="00000000-0000-0000-57AF-63E0F8B4AB21" _position="0" _address="https://data.mo.gov/resource/cq57-7qrb/03012020">
+            <record_id>03012020</record_id>
+            <date>2020-03-01T00:00:00</date>
+            <ina>2761</ina>
+            <white>15115</white>
+            <asian>125</asian>
+            <black_or_african_american>3979</black_or_african_american>
+            <american_indian_or_alaskan_native>151</american_indian_or_alaskan_native>
+            <native_hawaiian_or_other_pacific_islander>112</native_hawaiian_or_other_pacific_islander>
+        </row>
+    </row>
+</response>

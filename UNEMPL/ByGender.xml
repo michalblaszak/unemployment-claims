@@ -1,0 +1,676 @@
+<response>
+    <row>
+        <row _id="row-ma9t.44qj_zcd7" _uuid="00000000-0000-0000-132B-A0BC62DD34DD" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/08012011">
+            <record_id>08012011</record_id>
+            <date>2011-08-01T00:00:00</date>
+            <ina>51</ina>
+            <female>32985</female>
+            <male>29028</male>
+        </row>
+        <row _id="row-99eg.xqt6~dzgh" _uuid="00000000-0000-0000-E2C2-7915BC953BA5" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/07012011">
+            <record_id>07012011</record_id>
+            <date>2011-07-01T00:00:00</date>
+            <ina>38</ina>
+            <female>35518</female>
+            <male>31265</male>
+        </row>
+        <row _id="row-9vf8-k3x8~tb8a" _uuid="00000000-0000-0000-CBBC-2E8E81E52337" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/09012011">
+            <record_id>09012011</record_id>
+            <date>2011-09-01T00:00:00</date>
+            <ina>57</ina>
+            <female>26319</female>
+            <male>27105</male>
+        </row>
+        <row _id="row-9ymb.339t.dme3" _uuid="00000000-0000-0000-EEBB-4CEAB5AFC264" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/02012012">
+            <record_id>02012012</record_id>
+            <date>2012-02-01T00:00:00</date>
+            <ina>65</ina>
+            <female>24066</female>
+            <male>39834</male>
+        </row>
+        <row _id="row-sj5x-qjrs-8tuw" _uuid="00000000-0000-0000-5934-1EC718ECE756" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/10012011">
+            <record_id>10012011</record_id>
+            <date>2011-10-01T00:00:00</date>
+            <ina>55</ina>
+            <female>24269</female>
+            <male>26030</male>
+        </row>
+        <row _id="row-58pm_x9zk_3zuy" _uuid="00000000-0000-0000-8598-0CF87EEDF885" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/11012011">
+            <record_id>11012011</record_id>
+            <date>2011-11-01T00:00:00</date>
+            <ina>73</ina>
+            <female>26456</female>
+            <male>31807</male>
+        </row>
+        <row _id="row-ftqy_jfr8~xdjv" _uuid="00000000-0000-0000-3018-C32374B86A1B" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/12012011">
+            <record_id>12012011</record_id>
+            <date>2011-12-01T00:00:00</date>
+            <ina>70</ina>
+            <female>23336</female>
+            <male>34519</male>
+        </row>
+        <row _id="row-8sqb_46cq~s2xt" _uuid="00000000-0000-0000-278B-DDBCDF4CC84F" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/01012012">
+            <record_id>01012012</record_id>
+            <date>2012-01-01T00:00:00</date>
+            <ina>78</ina>
+            <female>26504</female>
+            <male>41399</male>
+        </row>
+        <row _id="row-54hg-25c5.9uqw" _uuid="00000000-0000-0000-F403-E90C4206068F" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/03012012">
+            <record_id>03012012</record_id>
+            <date>2012-03-01T00:00:00</date>
+            <ina>72</ina>
+            <female>22685</female>
+            <male>32888</male>
+        </row>
+        <row _id="row-72d2-wnzm-dmfi" _uuid="00000000-0000-0000-F473-F918F97FCDAC" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/06012012">
+            <record_id>06012012</record_id>
+            <date>2012-06-01T00:00:00</date>
+            <ina>57</ina>
+            <female>25860</female>
+            <male>24243</male>
+        </row>
+        <row _id="row-2q4b_ud56.sft7" _uuid="00000000-0000-0000-3337-331BF948C347" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/07012012">
+            <record_id>07012012</record_id>
+            <date>2012-07-01T00:00:00</date>
+            <ina>56</ina>
+            <female>28036</female>
+            <male>25898</male>
+        </row>
+        <row _id="row-xb5m.tsp2-g8p7" _uuid="00000000-0000-0000-DA70-E92DAC48AF7A" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/05012012">
+            <record_id>05012012</record_id>
+            <date>2012-05-01T00:00:00</date>
+            <ina>74</ina>
+            <female>21167</female>
+            <male>26196</male>
+        </row>
+        <row _id="row-cvck_4wz8-j68n" _uuid="00000000-0000-0000-53F2-2D41CD666CFC" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/04012012">
+            <record_id>04012012</record_id>
+            <date>2012-04-01T00:00:00</date>
+            <ina>78</ina>
+            <female>20795</female>
+            <male>27069</male>
+        </row>
+        <row _id="row-vjx4.p8tq-y5vu" _uuid="00000000-0000-0000-17DB-CAB8D6BB5B49" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/08012012">
+            <record_id>08012012</record_id>
+            <date>2012-08-01T00:00:00</date>
+            <ina>56</ina>
+            <female>24379</female>
+            <male>24445</male>
+        </row>
+        <row _id="row-vwi5_6f5n.dsis" _uuid="00000000-0000-0000-3AAC-780AFD4ECCB3" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/09012012">
+            <record_id>09012012</record_id>
+            <date>2012-09-01T00:00:00</date>
+            <ina>48</ina>
+            <female>21540</female>
+            <male>25340</male>
+        </row>
+        <row _id="row-94zz.c54b_2zd7" _uuid="00000000-0000-0000-EF93-C16CD2461F9E" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/10012012">
+            <record_id>10012012</record_id>
+            <date>2012-10-01T00:00:00</date>
+            <ina>43</ina>
+            <female>19391</female>
+            <male>21767</male>
+        </row>
+        <row _id="row-mrwe~c8y8.wwsm" _uuid="00000000-0000-0000-4A96-F795F819DCC2" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/11012012">
+            <record_id>11012012</record_id>
+            <date>2012-11-01T00:00:00</date>
+            <ina>52</ina>
+            <female>16369</female>
+            <male>21212</male>
+        </row>
+        <row _id="row-939r.467i-rjvk" _uuid="00000000-0000-0000-ACAB-2A6BE5CDDC6C" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/12012012">
+            <record_id>12012012</record_id>
+            <date>2012-12-01T00:00:00</date>
+            <ina>76</ina>
+            <female>21506</female>
+            <male>31085</male>
+        </row>
+        <row _id="row-sghf.ds6d-64zj" _uuid="00000000-0000-0000-A6BA-20ADEDF46F79" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/01012013">
+            <record_id>01012013</record_id>
+            <date>2013-01-01T00:00:00</date>
+            <ina>83</ina>
+            <female>25363</female>
+            <male>40296</male>
+        </row>
+        <row _id="row-feen~afzq-8f5i" _uuid="00000000-0000-0000-900F-B8590A4B8A14" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/02012013">
+            <record_id>02012013</record_id>
+            <date>2013-02-01T00:00:00</date>
+            <ina>61</ina>
+            <female>21590</female>
+            <male>35552</male>
+        </row>
+        <row _id="row-ui82_khap~2wm3" _uuid="00000000-0000-0000-853B-D2A2494C2FD4" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/04012013">
+            <record_id>04012013</record_id>
+            <date>2013-04-01T00:00:00</date>
+            <ina>57</ina>
+            <female>18591</female>
+            <male>25315</male>
+        </row>
+        <row _id="row-je8a-332g~m235" _uuid="00000000-0000-0000-B8EE-20CBA6980CC0" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/05012013">
+            <record_id>05012013</record_id>
+            <date>2013-05-01T00:00:00</date>
+            <ina>42</ina>
+            <female>19148</female>
+            <male>20944</male>
+        </row>
+        <row _id="row-hp3t_vjck~bfwb" _uuid="00000000-0000-0000-D4EC-A5960B6E1CE5" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/06012013">
+            <record_id>06012013</record_id>
+            <date>2013-06-01T00:00:00</date>
+            <ina>40</ina>
+            <female>24656</female>
+            <male>20683</male>
+        </row>
+        <row _id="row-w358~78se-uhcp" _uuid="00000000-0000-0000-01BD-467982C5D53D" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/07012013">
+            <record_id>07012013</record_id>
+            <date>2013-07-01T00:00:00</date>
+            <ina>49</ina>
+            <female>25869</female>
+            <male>21311</male>
+        </row>
+        <row _id="row-rdfr_w7eu.vgd9" _uuid="00000000-0000-0000-9CA2-4F6607253B81" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/08012013">
+            <record_id>08012013</record_id>
+            <date>2013-08-01T00:00:00</date>
+            <ina>46</ina>
+            <female>23344</female>
+            <male>21429</male>
+        </row>
+        <row _id="row-c9rd-9ah6.yaui" _uuid="00000000-0000-0000-4629-B1A4A29F764F" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/09012013">
+            <record_id>09012013</record_id>
+            <date>2013-09-01T00:00:00</date>
+            <ina>61</ina>
+            <female>19227</female>
+            <male>19330</male>
+        </row>
+        <row _id="row-g29q~jtnf-ybdu" _uuid="00000000-0000-0000-E814-9656D8AF88F0" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/10012013">
+            <record_id>10012013</record_id>
+            <date>2013-10-01T00:00:00</date>
+            <ina>52</ina>
+            <female>18157</female>
+            <male>18420</male>
+        </row>
+        <row _id="row-h9wr_8nds.etbr" _uuid="00000000-0000-0000-7572-CFA2E016AE3A" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/11012013">
+            <record_id>11012013</record_id>
+            <date>2013-11-01T00:00:00</date>
+            <ina>46</ina>
+            <female>18805</female>
+            <male>21743</male>
+        </row>
+        <row _id="row-sskx_wjpc~y6by" _uuid="00000000-0000-0000-8AB3-595068B905F1" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/12012013">
+            <record_id>12012013</record_id>
+            <date>2013-12-01T00:00:00</date>
+            <ina>67</ina>
+            <female>19293</female>
+            <male>27081</male>
+        </row>
+        <row _id="row-x5tu-yjzf-wk4b" _uuid="00000000-0000-0000-68EA-9E3C7D411EDF" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/01012014">
+            <record_id>01012014</record_id>
+            <date>2014-01-01T00:00:00</date>
+            <ina>71</ina>
+            <female>22845</female>
+            <male>37254</male>
+        </row>
+        <row _id="row-aaje-jabk~nadk" _uuid="00000000-0000-0000-52FF-C08CF9AF3549" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/02012014">
+            <record_id>02012014</record_id>
+            <date>2014-02-01T00:00:00</date>
+            <ina>84</ina>
+            <female>22028</female>
+            <male>38416</male>
+        </row>
+        <row _id="row-7mg6.q66i_96c2" _uuid="00000000-0000-0000-0124-8F23A9EABE9E" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/03012014">
+            <record_id>03012014</record_id>
+            <date>2014-03-01T00:00:00</date>
+            <ina>69</ina>
+            <female>19171</female>
+            <male>28251</male>
+        </row>
+        <row _id="row-wicg_m74e-krid" _uuid="00000000-0000-0000-4A4E-3402C29CCF07" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/04012014">
+            <record_id>04012014</record_id>
+            <date>2014-04-01T00:00:00</date>
+            <ina>60</ina>
+            <female>16618</female>
+            <male>20419</male>
+        </row>
+        <row _id="row-hf8r~2t3z_22sx" _uuid="00000000-0000-0000-D08D-C75909829423" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/05012014">
+            <record_id>05012014</record_id>
+            <date>2014-05-01T00:00:00</date>
+            <ina>33</ina>
+            <female>17123</female>
+            <male>18055</male>
+        </row>
+        <row _id="row-cc37-iud7_g629" _uuid="00000000-0000-0000-30C8-C3CE4089FED5" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/06012014">
+            <record_id>06012014</record_id>
+            <date>2014-06-01T00:00:00</date>
+            <ina>40</ina>
+            <female>21225</female>
+            <male>17533</male>
+        </row>
+        <row _id="row-9xfm-sfxk-2egc" _uuid="00000000-0000-0000-B9ED-E8F42EDEDCF2" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/07012014">
+            <record_id>07012014</record_id>
+            <date>2014-07-01T00:00:00</date>
+            <ina>49</ina>
+            <female>22384</female>
+            <male>17265</male>
+        </row>
+        <row _id="row-bnvu-2g7v-7gpx" _uuid="00000000-0000-0000-2F28-06AAFBC3EB4C" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/08012014">
+            <record_id>08012014</record_id>
+            <date>2014-08-01T00:00:00</date>
+            <ina>37</ina>
+            <female>19473</female>
+            <male>16303</male>
+        </row>
+        <row _id="row-nfb8-ivae~9ufy" _uuid="00000000-0000-0000-387F-D75368972D67" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/09012014">
+            <record_id>09012014</record_id>
+            <date>2014-09-01T00:00:00</date>
+            <ina>26</ina>
+            <female>15902</female>
+            <male>16047</male>
+        </row>
+        <row _id="row-7jr4~v83h.fgfw" _uuid="00000000-0000-0000-B99D-47429205193D" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/10012014">
+            <record_id>10012014</record_id>
+            <date>2014-10-01T00:00:00</date>
+            <ina>50</ina>
+            <female>15102</female>
+            <male>15453</male>
+        </row>
+        <row _id="row-8sr7.njv7~jf6f" _uuid="00000000-0000-0000-0D11-9BE5DBB2EFF1" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/11012014">
+            <record_id>11012014</record_id>
+            <date>2014-11-01T00:00:00</date>
+            <ina>63</ina>
+            <female>15158</female>
+            <male>17036</male>
+        </row>
+        <row _id="row-xhbz.9c49_2ggj" _uuid="00000000-0000-0000-C648-CAAE9268A79D" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/12012014">
+            <record_id>12012014</record_id>
+            <date>2014-12-01T00:00:00</date>
+            <ina>64</ina>
+            <female>14972</female>
+            <male>20963</male>
+        </row>
+        <row _id="row-5dbf_9seb-8qfx" _uuid="00000000-0000-0000-64FF-C5AA9B42D456" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/01012015">
+            <record_id>01012015</record_id>
+            <date>2015-01-01T00:00:00</date>
+            <ina>62</ina>
+            <female>17455</female>
+            <male>31950</male>
+        </row>
+        <row _id="row-znpw_3bdd-72xg" _uuid="00000000-0000-0000-29B6-00EEA5AD48C4" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/02012015">
+            <record_id>02012015</record_id>
+            <date>2015-02-01T00:00:00</date>
+            <ina>58</ina>
+            <female>16820</female>
+            <male>29940</male>
+        </row>
+        <row _id="row-ifta_rd9t_xjfe" _uuid="00000000-0000-0000-FBD6-BFE54B104FCB" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/03012015">
+            <record_id>03012015</record_id>
+            <date>2015-03-01T00:00:00</date>
+            <ina>46</ina>
+            <female>15174</female>
+            <male>24555</male>
+        </row>
+        <row _id="row-nmvz_qn7a.eeks" _uuid="00000000-0000-0000-EF55-BA8CD2D6E7EA" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/04012015">
+            <record_id>04012015</record_id>
+            <date>2015-04-01T00:00:00</date>
+            <ina>56</ina>
+            <female>13231</female>
+            <male>16734</male>
+        </row>
+        <row _id="row-pzbi~2k7e~feig" _uuid="00000000-0000-0000-DC3D-BB6F87E2693D" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/05012015">
+            <record_id>05012015</record_id>
+            <date>2015-05-01T00:00:00</date>
+            <ina>45</ina>
+            <female>13113</female>
+            <male>14570</male>
+        </row>
+        <row _id="row-jw35~8gkg~z9jv" _uuid="00000000-0000-0000-1C20-7B0B9321E244" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/06012015">
+            <record_id>06012015</record_id>
+            <date>2015-06-01T00:00:00</date>
+            <ina>48</ina>
+            <female>17775</female>
+            <male>15027</male>
+        </row>
+        <row _id="row-jqkf_dn3h~dfaj" _uuid="00000000-0000-0000-3E17-38BF39AF48BD" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/07012015">
+            <record_id>07012015</record_id>
+            <date>2015-07-01T00:00:00</date>
+            <ina>48</ina>
+            <female>18961</female>
+            <male>14830</male>
+        </row>
+        <row _id="row-srpv~tpxb-k2se" _uuid="00000000-0000-0000-DC4E-775145F737B1" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/08012015">
+            <record_id>08012015</record_id>
+            <date>2015-08-01T00:00:00</date>
+            <ina>49</ina>
+            <female>17464</female>
+            <male>15183</male>
+        </row>
+        <row _id="row-qacp_vhz8.eu2r" _uuid="00000000-0000-0000-4728-D350ACEABE82" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/09012015">
+            <record_id>09012015</record_id>
+            <date>2015-09-01T00:00:00</date>
+            <ina>38</ina>
+            <female>13083</female>
+            <male>13291</male>
+        </row>
+        <row _id="row-pegz-jvyb~g4hi" _uuid="00000000-0000-0000-DA79-63FD8E9ADE0E" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/10012015">
+            <record_id>10012015</record_id>
+            <date>2015-10-01T00:00:00</date>
+            <ina>31</ina>
+            <female>11942</female>
+            <male>12608</male>
+        </row>
+        <row _id="row-xwfv~npdn_xpq5" _uuid="00000000-0000-0000-687F-1D3BF03AD41C" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/11012015">
+            <record_id>11012015</record_id>
+            <date>2015-11-01T00:00:00</date>
+            <ina>31</ina>
+            <female>11841</female>
+            <male>14175</male>
+        </row>
+        <row _id="row-fzsj_ecsv~7unm" _uuid="00000000-0000-0000-D076-C3C5F690D0FB" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/12012015">
+            <record_id>12012015</record_id>
+            <date>2015-12-01T00:00:00</date>
+            <ina>41</ina>
+            <female>12342</female>
+            <male>18111</male>
+        </row>
+        <row _id="row-cekn~fid3_fucv" _uuid="00000000-0000-0000-CCB7-16B1DF03EE29" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/01012016">
+            <record_id>01012016</record_id>
+            <date>2016-01-01T00:00:00</date>
+            <ina>60</ina>
+            <female>15202</female>
+            <male>26465</male>
+        </row>
+        <row _id="row-kevb~srb2_bvht" _uuid="00000000-0000-0000-F9CF-F9425871D488" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/02012016">
+            <record_id>02012016</record_id>
+            <date>2016-02-01T00:00:00</date>
+            <ina>51</ina>
+            <female>14918</female>
+            <male>27006</male>
+        </row>
+        <row _id="row-92by~2xf4~dhcj" _uuid="00000000-0000-0000-DA83-ACD0CA5447B2" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/03012016">
+            <record_id>03012016</record_id>
+            <date>2016-03-01T00:00:00</date>
+            <ina>33</ina>
+            <female>12150</female>
+            <male>19381</male>
+        </row>
+        <row _id="row-2x38_ypse-i9v6" _uuid="00000000-0000-0000-80E1-3B76330C764C" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/04012016">
+            <record_id>04012016</record_id>
+            <date>2016-04-01T00:00:00</date>
+            <ina>39</ina>
+            <female>9721</female>
+            <male>12448</male>
+        </row>
+        <row _id="row-ctt9~3czk_wbvs" _uuid="00000000-0000-0000-261D-30C80B7F5CCE" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/05012016">
+            <record_id>05012016</record_id>
+            <date>2016-05-01T00:00:00</date>
+            <ina>30</ina>
+            <female>10034</female>
+            <male>12805</male>
+        </row>
+        <row _id="row-9bx8-gggi.2dzx" _uuid="00000000-0000-0000-6DBB-1C37FFF679AC" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/06012016">
+            <record_id>06012016</record_id>
+            <date>2016-06-01T00:00:00</date>
+            <ina>28</ina>
+            <female>14481</female>
+            <male>10895</male>
+        </row>
+        <row _id="row-wfb5-hgf2.3we8" _uuid="00000000-0000-0000-526B-7B8D88C8ED86" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/08012016">
+            <record_id>08012016</record_id>
+            <date>2016-08-01T00:00:00</date>
+            <ina>75</ina>
+            <female>17514</female>
+            <male>13955</male>
+        </row>
+        <row _id="row-a55t_3sz8_xbtj" _uuid="00000000-0000-0000-B80E-3E421FD443E0" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/09012016">
+            <record_id>09012016</record_id>
+            <date>2016-09-01T00:00:00</date>
+            <ina>71</ina>
+            <female>12594</female>
+            <male>12224</male>
+        </row>
+        <row _id="row-56j3-6nqa_9mb6" _uuid="00000000-0000-0000-CAE0-988A72D37A24" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/12012016">
+            <record_id>12012016</record_id>
+            <date>2016-12-01T00:00:00</date>
+            <ina>38</ina>
+            <female>11626</female>
+            <male>17177</male>
+        </row>
+        <row _id="row-zd55~65w7_r7nk" _uuid="00000000-0000-0000-39F5-A524843948AD" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/01012017">
+            <record_id>01012017</record_id>
+            <date>2017-01-01T00:00:00</date>
+            <ina>78</ina>
+            <female>14186</female>
+            <male>23167</male>
+        </row>
+        <row _id="row-9y8c~pn82-t5rx" _uuid="00000000-0000-0000-C8CC-558C31E97B43" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/02012017">
+            <record_id>02012017</record_id>
+            <date>2017-02-01T00:00:00</date>
+            <ina>47</ina>
+            <female>13155</female>
+            <male>21456</male>
+        </row>
+        <row _id="row-xx2h-9zd2.tmby" _uuid="00000000-0000-0000-86B8-09161215B93F" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/03012017">
+            <record_id>03012017</record_id>
+            <date>2017-03-01T00:00:00</date>
+            <ina>35</ina>
+            <female>12368</female>
+            <male>17712</male>
+        </row>
+        <row _id="row-shiv_d6wy_g9r3" _uuid="00000000-0000-0000-167F-15342CF89812" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/04012017">
+            <record_id>04012017</record_id>
+            <date>2017-04-01T00:00:00</date>
+            <ina>28</ina>
+            <female>10513</female>
+            <male>13553</male>
+        </row>
+        <row _id="row-yfk2_9se8_ew3h" _uuid="00000000-0000-0000-D44E-72847194A0E4" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/05012017">
+            <record_id>05012017</record_id>
+            <date>2017-05-01T00:00:00</date>
+            <ina>36</ina>
+            <female>10876</female>
+            <male>12529</male>
+        </row>
+        <row _id="row-qcxn.yigt_83xy" _uuid="00000000-0000-0000-9202-863E91DB946E" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/06012017">
+            <record_id>06012017</record_id>
+            <date>2017-06-01T00:00:00</date>
+            <ina>40</ina>
+            <female>15521</female>
+            <male>12125</male>
+        </row>
+        <row _id="row-zmpk.8s86_87ta" _uuid="00000000-0000-0000-0831-7F9A1A33323C" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/07012017">
+            <record_id>07012017</record_id>
+            <date>2017-07-01T00:00:00</date>
+            <ina>40</ina>
+            <female>17662</female>
+            <male>14138</male>
+        </row>
+        <row _id="row-nf6p~nzxw~shuj" _uuid="00000000-0000-0000-7929-651DEA75218A" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/08012017">
+            <record_id>08012017</record_id>
+            <date>2017-08-01T00:00:00</date>
+            <ina>39</ina>
+            <female>15770</female>
+            <male>12476</male>
+        </row>
+        <row _id="row-a5zb~edp8~22h4" _uuid="00000000-0000-0000-5275-8ADC40E3703F" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/09012017">
+            <record_id>09012017</record_id>
+            <date>2017-09-01T00:00:00</date>
+            <ina>30</ina>
+            <female>10439</female>
+            <male>10276</male>
+        </row>
+        <row _id="row-vyja-jbdd.edqr" _uuid="00000000-0000-0000-F817-1BD72B3DD41F" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/10012017">
+            <record_id>10012017</record_id>
+            <date>2017-10-01T00:00:00</date>
+            <ina>19</ina>
+            <female>11753</female>
+            <male>13360</male>
+        </row>
+        <row _id="row-79e5-7u28-f39z" _uuid="00000000-0000-0000-F496-B4A272549B42" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/11012017">
+            <record_id>11012017</record_id>
+            <date>2017-11-01T00:00:00</date>
+            <ina>17</ina>
+            <female>11042</female>
+            <male>13799</male>
+        </row>
+        <row _id="row-gexz_aqwx-rz8y" _uuid="00000000-0000-0000-5CF4-F3BF88D1297D" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/12012017">
+            <record_id>12012017</record_id>
+            <date>2017-12-01T00:00:00</date>
+            <ina>29</ina>
+            <female>11330</female>
+            <male>14951</male>
+        </row>
+        <row _id="row-ne2v~2uay.5kne" _uuid="00000000-0000-0000-5001-C362D48312AE" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/01012018">
+            <record_id>01012018</record_id>
+            <date>2018-01-01T00:00:00</date>
+            <ina>29</ina>
+            <female>13470</female>
+            <male>23485</male>
+        </row>
+        <row _id="row-zmjm.uxcp-8wsj" _uuid="00000000-0000-0000-CDCE-ECF1E8245675" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/02012018">
+            <record_id>02012018</record_id>
+            <date>2018-02-01T00:00:00</date>
+            <ina>34</ina>
+            <female>12458</female>
+            <male>20510</male>
+        </row>
+        <row _id="row-qbvm-tvvk.gb33" _uuid="00000000-0000-0000-ADC6-FB994512558A" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/03012018">
+            <record_id>03012018</record_id>
+            <date>2018-03-01T00:00:00</date>
+            <ina>28</ina>
+            <female>10813</female>
+            <male>15390</male>
+        </row>
+        <row _id="row-icp4-prwb~yyzw" _uuid="00000000-0000-0000-69CF-C447D4841DA0" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/04012018">
+            <record_id>04012018</record_id>
+            <date>2018-04-01T00:00:00</date>
+            <ina>18</ina>
+            <female>9685</female>
+            <male>12125</male>
+        </row>
+        <row _id="row-5sg6~3qjd~xecn" _uuid="00000000-0000-0000-38AC-BADE43C90947" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/05012018">
+            <record_id>05012018</record_id>
+            <date>2018-05-01T00:00:00</date>
+            <ina>33</ina>
+            <female>10650</female>
+            <male>12887</male>
+        </row>
+        <row _id="row-vy8r~77er~7ckd" _uuid="00000000-0000-0000-412D-484A0DFAE022" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/06012018">
+            <record_id>06012018</record_id>
+            <date>2018-06-01T00:00:00</date>
+            <ina>29</ina>
+            <female>14289</female>
+            <male>10088</male>
+        </row>
+        <row _id="row-57vt~fqqr.7bhe" _uuid="00000000-0000-0000-1BC0-F161E6FA1183" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/07012018">
+            <record_id>07012018</record_id>
+            <date>2018-07-01T00:00:00</date>
+            <ina>29</ina>
+            <female>16098</female>
+            <male>10996</male>
+        </row>
+        <row _id="row-kevi_5tph_bcj3" _uuid="00000000-0000-0000-787D-644636C93924" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/08012018">
+            <record_id>08012018</record_id>
+            <date>2018-08-01T00:00:00</date>
+            <ina>22</ina>
+            <female>11651</female>
+            <male>9761</male>
+        </row>
+        <row _id="row-33fd.jkjm_meg9" _uuid="00000000-0000-0000-D342-1739DD71F910" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/09012018">
+            <record_id>09012018</record_id>
+            <date>2018-09-01T00:00:00</date>
+            <ina>23</ina>
+            <female>9419</female>
+            <male>8686</male>
+        </row>
+        <row _id="row-63c5-c6ea_jtvq" _uuid="00000000-0000-0000-1B3F-33729A654D30" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/10012018">
+            <record_id>10012018</record_id>
+            <date>2018-10-01T00:00:00</date>
+            <ina>17</ina>
+            <female>9416</female>
+            <male>8796</male>
+        </row>
+        <row _id="row-w4rb-bf3v~pfri" _uuid="00000000-0000-0000-B78C-99DF9AC6E3F9" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/11012018">
+            <record_id>11012018</record_id>
+            <date>2018-11-01T00:00:00</date>
+            <ina>30</ina>
+            <female>8623</female>
+            <male>10312</male>
+        </row>
+        <row _id="row-kv6y_4r4e-kwt4" _uuid="00000000-0000-0000-C905-341068488378" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/12012018">
+            <record_id>12012018</record_id>
+            <date>2018-12-01T00:00:00</date>
+            <ina>33</ina>
+            <female>9733</female>
+            <male>13048</male>
+        </row>
+        <row _id="row-wufh-4ve3-gisq" _uuid="00000000-0000-0000-2D22-B86852A7D970" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/01012019">
+            <record_id>01012019</record_id>
+            <date>2019-01-01T00:00:00</date>
+            <ina>35</ina>
+            <female>13206</female>
+            <male>17653</male>
+        </row>
+        <row _id="row-8gzc-i3bw-rsbj" _uuid="00000000-0000-0000-F588-C537DCF2AE0B" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/07012019">
+            <record_id>07012019</record_id>
+            <date>2019-07-01T00:00:00</date>
+            <ina>34</ina>
+            <female>14692</female>
+            <male>10119</male>
+        </row>
+        <row _id="row-nxap_wmxj.rph4" _uuid="00000000-0000-0000-1CBC-7DAAFADDBA02" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/07012019">
+            <record_id>07012019</record_id>
+            <date>2019-07-01T00:00:00</date>
+            <ina>34</ina>
+            <female>14692</female>
+            <male>10119</male>
+        </row>
+        <row _id="row-vdxc-wp4r-wn57" _uuid="00000000-0000-0000-D352-E7C9C3CA1317" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/08012019">
+            <record_id>08012019</record_id>
+            <date>2019-08-01T00:00:00</date>
+            <ina>12</ina>
+            <female>10366</female>
+            <male>8634</male>
+        </row>
+        <row _id="row-c3ur.bu3r_srxs" _uuid="00000000-0000-0000-9AFB-33C8DF48D382" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/09012019">
+            <record_id>09012019</record_id>
+            <date>2019-09-01T00:00:00</date>
+            <ina>7</ina>
+            <female>8094</female>
+            <male>7578</male>
+        </row>
+        <row _id="row-x62g~skc7-q2tp" _uuid="00000000-0000-0000-52F1-B5A0228F2384" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/11012019">
+            <record_id>11012019</record_id>
+            <date>2019-11-01T00:00:00</date>
+            <ina>71</ina>
+            <female>8106</female>
+            <male>10314</male>
+        </row>
+        <row _id="row-5hax_cxeu_thza" _uuid="00000000-0000-0000-5ECD-95007646AC75" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/12012019">
+            <record_id>12012019</record_id>
+            <date>2019-12-01T00:00:00</date>
+            <ina>24</ina>
+            <female>8320</female>
+            <male>11766</male>
+        </row>
+        <row _id="row-fchc.35m3-gicb" _uuid="00000000-0000-0000-D328-80A2DF024F82" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/01012020">
+            <record_id>01012020</record_id>
+            <date>2020-01-01T00:00:00</date>
+            <ina>30</ina>
+            <female>11260</female>
+            <male>18384</male>
+        </row>
+        <row _id="row-ntwn.k6wa_8e7v" _uuid="00000000-0000-0000-0598-D66B8DEBD210" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/02012020">
+            <record_id>02012020</record_id>
+            <date>2020-02-01T00:00:00</date>
+            <ina>38</ina>
+            <female>10054</female>
+            <male>17381</male>
+        </row>
+        <row _id="row-zsqp.nhw2~zrxu" _uuid="00000000-0000-0000-4EFA-FA26A2A247E9" _position="0" _address="https://data.mo.gov/resource/_4v5t-4kqk/03012020">
+            <record_id>03012020</record_id>
+            <date>2020-03-01T00:00:00</date>
+            <ina>2</ina>
+            <female>9255</female>
+            <male>12986</male>
+        </row>
+    </row>
+</response>

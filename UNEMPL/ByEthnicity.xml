@@ -1,0 +1,655 @@
+<response>
+    <row>
+        <row _id="row-vf42.u539.shif" _uuid="00000000-0000-0000-B9E4-92EE993B87F1" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/08012011">
+            <record_id>08012011</record_id>
+            <date>2011-08-01T00:00:00</date>
+            <ina>29811</ina>
+            <hispanic_or_latino>942</hispanic_or_latino>
+            <not_hispanic_or_latino>31311</not_hispanic_or_latino>
+        </row>
+        <row _id="row-sht3_9j6k_dxuu" _uuid="00000000-0000-0000-A947-2893CAB4FD14" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/07012011">
+            <record_id>07012011</record_id>
+            <date>2011-07-01T00:00:00</date>
+            <ina>32343</ina>
+            <hispanic_or_latino>1018</hispanic_or_latino>
+            <not_hispanic_or_latino>33460</not_hispanic_or_latino>
+        </row>
+        <row _id="row-8z8r.6fd4_2xse" _uuid="00000000-0000-0000-806E-0FED5B692228" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/09012011">
+            <record_id>09012011</record_id>
+            <date>2011-09-01T00:00:00</date>
+            <ina>25168</ina>
+            <hispanic_or_latino>809</hispanic_or_latino>
+            <not_hispanic_or_latino>27504</not_hispanic_or_latino>
+        </row>
+        <row _id="row-cgv8-qfs9-fwdb" _uuid="00000000-0000-0000-AAD1-662C7EE1EFAD" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/02012012">
+            <record_id>02012012</record_id>
+            <date>2012-02-01T00:00:00</date>
+            <ina>19169</ina>
+            <hispanic_or_latino>1530</hispanic_or_latino>
+            <not_hispanic_or_latino>43266</not_hispanic_or_latino>
+        </row>
+        <row _id="row-qhvg~d9nc_ufjv" _uuid="00000000-0000-0000-9F15-A0990D6A8ACB" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/10012011">
+            <record_id>10012011</record_id>
+            <date>2011-10-01T00:00:00</date>
+            <ina>24446</ina>
+            <hispanic_or_latino>741</hispanic_or_latino>
+            <not_hispanic_or_latino>25167</not_hispanic_or_latino>
+        </row>
+        <row _id="row-hiby-df9d_disu" _uuid="00000000-0000-0000-DB96-0C86943B6EAA" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/11012011">
+            <record_id>11012011</record_id>
+            <date>2011-11-01T00:00:00</date>
+            <ina>28089</ina>
+            <hispanic_or_latino>837</hispanic_or_latino>
+            <not_hispanic_or_latino>29410</not_hispanic_or_latino>
+        </row>
+        <row _id="row-7w7i-u957~442h" _uuid="00000000-0000-0000-4B80-6A2CC5F1D25C" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/12012011">
+            <record_id>12012011</record_id>
+            <date>2011-12-01T00:00:00</date>
+            <ina>27259</ina>
+            <hispanic_or_latino>906</hispanic_or_latino>
+            <not_hispanic_or_latino>29760</not_hispanic_or_latino>
+        </row>
+        <row _id="row-w9tr~jdd9.f4x6" _uuid="00000000-0000-0000-016F-F25907D9D074" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/01012012">
+            <record_id>01012012</record_id>
+            <date>2012-01-01T00:00:00</date>
+            <ina>25327</ina>
+            <hispanic_or_latino>1355</hispanic_or_latino>
+            <not_hispanic_or_latino>41299</not_hispanic_or_latino>
+        </row>
+        <row _id="row-unyd-rnmr~u86s" _uuid="00000000-0000-0000-3ABA-975E28B8EF47" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/03012012">
+            <record_id>03012012</record_id>
+            <date>2012-03-01T00:00:00</date>
+            <ina>14966</ina>
+            <hispanic_or_latino>1314</hispanic_or_latino>
+            <not_hispanic_or_latino>39365</not_hispanic_or_latino>
+        </row>
+        <row _id="row-qvfk.uyb3_mdn4" _uuid="00000000-0000-0000-C96E-15142CBAEFD7" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/06012012">
+            <record_id>06012012</record_id>
+            <date>2012-06-01T00:00:00</date>
+            <ina>12263</ina>
+            <hispanic_or_latino>1165</hispanic_or_latino>
+            <not_hispanic_or_latino>36732</not_hispanic_or_latino>
+        </row>
+        <row _id="row-rz3s-w89f-uemx" _uuid="00000000-0000-0000-B177-8CF64B0F2F1C" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/07012012">
+            <record_id>07012012</record_id>
+            <date>2012-07-01T00:00:00</date>
+            <ina>12469</ina>
+            <hispanic_or_latino>1243</hispanic_or_latino>
+            <not_hispanic_or_latino>40278</not_hispanic_or_latino>
+        </row>
+        <row _id="row-kncw_nz8t.axv5" _uuid="00000000-0000-0000-F228-7465A89FB77F" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/05012012">
+            <record_id>05012012</record_id>
+            <date>2012-05-01T00:00:00</date>
+            <ina>11196</ina>
+            <hispanic_or_latino>1093</hispanic_or_latino>
+            <not_hispanic_or_latino>35148</not_hispanic_or_latino>
+        </row>
+        <row _id="row-ipue.94mg~h48u" _uuid="00000000-0000-0000-A0F7-19EF078567F7" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/04012012">
+            <record_id>04012012</record_id>
+            <date>2012-04-01T00:00:00</date>
+            <ina>11370</ina>
+            <hispanic_or_latino>1113</hispanic_or_latino>
+            <not_hispanic_or_latino>35459</not_hispanic_or_latino>
+        </row>
+        <row _id="row-8e8f.45ze-e7hh" _uuid="00000000-0000-0000-B59B-4F800EDE023F" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/08012012">
+            <record_id>08012012</record_id>
+            <date>2012-08-01T00:00:00</date>
+            <ina>9997</ina>
+            <hispanic_or_latino>1137</hispanic_or_latino>
+            <not_hispanic_or_latino>37746</not_hispanic_or_latino>
+        </row>
+        <row _id="row-9968-cqas~gx8y" _uuid="00000000-0000-0000-9EB1-90FE15D40983" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/09012012">
+            <record_id>09012012</record_id>
+            <date>2012-09-01T00:00:00</date>
+            <ina>10079</ina>
+            <hispanic_or_latino>1068</hispanic_or_latino>
+            <not_hispanic_or_latino>35781</not_hispanic_or_latino>
+        </row>
+        <row _id="row-gyrm~hhni-f67y" _uuid="00000000-0000-0000-EAE3-6329683C7C8E" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/10012012">
+            <record_id>10012012</record_id>
+            <date>2012-10-01T00:00:00</date>
+            <ina>7060</ina>
+            <hispanic_or_latino>980</hispanic_or_latino>
+            <not_hispanic_or_latino>33161</not_hispanic_or_latino>
+        </row>
+        <row _id="row-dd22-ufzd.yju3" _uuid="00000000-0000-0000-CF44-80FFF1F39B60" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/11012012">
+            <record_id>11012012</record_id>
+            <date>2012-11-01T00:00:00</date>
+            <ina>7178</ina>
+            <hispanic_or_latino>915</hispanic_or_latino>
+            <not_hispanic_or_latino>29540</not_hispanic_or_latino>
+        </row>
+        <row _id="row-z96m_z7i3_mepz" _uuid="00000000-0000-0000-F9B9-D9B3C0CEC628" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/12012012">
+            <record_id>12012012</record_id>
+            <date>2012-12-01T00:00:00</date>
+            <ina>10209</ina>
+            <hispanic_or_latino>1319</hispanic_or_latino>
+            <not_hispanic_or_latino>41139</not_hispanic_or_latino>
+        </row>
+        <row _id="row-3ygu~vn2w_mbh4" _uuid="00000000-0000-0000-C68F-A31E14EF8E82" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/01012013">
+            <record_id>01012013</record_id>
+            <date>2013-01-01T00:00:00</date>
+            <ina>11587</ina>
+            <hispanic_or_latino>1648</hispanic_or_latino>
+            <not_hispanic_or_latino>52507</not_hispanic_or_latino>
+        </row>
+        <row _id="row-vgz3-k424-dy2i" _uuid="00000000-0000-0000-A601-D87F41A5F7AB" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/02012013">
+            <record_id>02012013</record_id>
+            <date>2013-02-01T00:00:00</date>
+            <ina>9061</ina>
+            <hispanic_or_latino>1605</hispanic_or_latino>
+            <not_hispanic_or_latino>46537</not_hispanic_or_latino>
+        </row>
+        <row _id="row-iphy.hwas.i5a3" _uuid="00000000-0000-0000-68C3-B67B7F2B4D1A" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/04012013">
+            <record_id>04012013</record_id>
+            <date>2013-04-01T00:00:00</date>
+            <ina>6328</ina>
+            <hispanic_or_latino>1197</hispanic_or_latino>
+            <not_hispanic_or_latino>36438</not_hispanic_or_latino>
+        </row>
+        <row _id="row-gw7h_xzra_pnfi" _uuid="00000000-0000-0000-AE08-3AC986B44D8C" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/05012013">
+            <record_id>05012013</record_id>
+            <date>2013-05-01T00:00:00</date>
+            <ina>5867</ina>
+            <hispanic_or_latino>953</hispanic_or_latino>
+            <not_hispanic_or_latino>33314</not_hispanic_or_latino>
+        </row>
+        <row _id="row-6k7f-r9ef.esdf" _uuid="00000000-0000-0000-22A7-7BE8A39199A5" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/06012013">
+            <record_id>06012013</record_id>
+            <date>2013-06-01T00:00:00</date>
+            <ina>7351</ina>
+            <hispanic_or_latino>1085</hispanic_or_latino>
+            <not_hispanic_or_latino>36943</not_hispanic_or_latino>
+        </row>
+        <row _id="row-dk93-k5ux~2y44" _uuid="00000000-0000-0000-94D7-755EC14F928D" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/07012013">
+            <record_id>07012013</record_id>
+            <date>2013-07-01T00:00:00</date>
+            <ina>7866</ina>
+            <hispanic_or_latino>1173</hispanic_or_latino>
+            <not_hispanic_or_latino>38190</not_hispanic_or_latino>
+        </row>
+        <row _id="row-rdek.q56d~z39k" _uuid="00000000-0000-0000-F990-BAA1F66BD165" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/08012013">
+            <record_id>08012013</record_id>
+            <date>2013-08-01T00:00:00</date>
+            <ina>7961</ina>
+            <hispanic_or_latino>1083</hispanic_or_latino>
+            <not_hispanic_or_latino>35775</not_hispanic_or_latino>
+        </row>
+        <row _id="row-ss2r.rnv3-me4j" _uuid="00000000-0000-0000-2B96-6B66A14A3580" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/09012013">
+            <record_id>09012013</record_id>
+            <date>2013-09-01T00:00:00</date>
+            <ina>5551</ina>
+            <hispanic_or_latino>984</hispanic_or_latino>
+            <not_hispanic_or_latino>32083</not_hispanic_or_latino>
+        </row>
+        <row _id="row-t89c-h6fg-pq7s" _uuid="00000000-0000-0000-A840-7651FDC9DC67" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/10012013">
+            <record_id>10012013</record_id>
+            <date>2013-10-01T00:00:00</date>
+            <ina>5204</ina>
+            <hispanic_or_latino>936</hispanic_or_latino>
+            <not_hispanic_or_latino>30489</not_hispanic_or_latino>
+        </row>
+        <row _id="row-ywbw.vt59_xw49" _uuid="00000000-0000-0000-7FD8-FEB04E805F25" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/11012013">
+            <record_id>11012013</record_id>
+            <date>2013-11-01T00:00:00</date>
+            <ina>5753</ina>
+            <hispanic_or_latino>1039</hispanic_or_latino>
+            <not_hispanic_or_latino>33802</not_hispanic_or_latino>
+        </row>
+        <row _id="row-6bcj.us8c.p24i" _uuid="00000000-0000-0000-0542-B979BB1FC2D1" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/12012013">
+            <record_id>12012013</record_id>
+            <date>2013-12-01T00:00:00</date>
+            <ina>6923</ina>
+            <hispanic_or_latino>1220</hispanic_or_latino>
+            <not_hispanic_or_latino>38298</not_hispanic_or_latino>
+        </row>
+        <row _id="row-y2dz-rfgv~hwz9" _uuid="00000000-0000-0000-0303-749B21B2B57F" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/01012014">
+            <record_id>01012014</record_id>
+            <date>2014-01-01T00:00:00</date>
+            <ina>8356</ina>
+            <hispanic_or_latino>1684</hispanic_or_latino>
+            <not_hispanic_or_latino>50130</not_hispanic_or_latino>
+        </row>
+        <row _id="row-bvz2.q3aq-kghn" _uuid="00000000-0000-0000-A1F9-032D484DF0E5" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/02012014">
+            <record_id>02012014</record_id>
+            <date>2014-02-01T00:00:00</date>
+            <ina>8140</ina>
+            <hispanic_or_latino>1709</hispanic_or_latino>
+            <not_hispanic_or_latino>50679</not_hispanic_or_latino>
+        </row>
+        <row _id="row-aqja-8u6t_5vc8" _uuid="00000000-0000-0000-F02E-8691B1EC03CC" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/03012014">
+            <record_id>03012014</record_id>
+            <date>2014-03-01T00:00:00</date>
+            <ina>6854</ina>
+            <hispanic_or_latino>1251</hispanic_or_latino>
+            <not_hispanic_or_latino>39386</not_hispanic_or_latino>
+        </row>
+        <row _id="row-7fhp.9pqt.f7jn" _uuid="00000000-0000-0000-5877-1B1A083D5901" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/04012014">
+            <record_id>04012014</record_id>
+            <date>2014-04-01T00:00:00</date>
+            <ina>4756</ina>
+            <hispanic_or_latino>921</hispanic_or_latino>
+            <not_hispanic_or_latino>31420</not_hispanic_or_latino>
+        </row>
+        <row _id="row-ezvt_mdkn_vucj" _uuid="00000000-0000-0000-7C32-7385E64C5E2E" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/05012014">
+            <record_id>05012014</record_id>
+            <date>2014-05-01T00:00:00</date>
+            <ina>4814</ina>
+            <hispanic_or_latino>1000</hispanic_or_latino>
+            <not_hispanic_or_latino>29397</not_hispanic_or_latino>
+        </row>
+        <row _id="row-jk96.niks_hsw8" _uuid="00000000-0000-0000-EB0E-F2D5D849D424" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/06012014">
+            <record_id>06012014</record_id>
+            <date>2014-06-01T00:00:00</date>
+            <ina>6550</ina>
+            <hispanic_or_latino>1258</hispanic_or_latino>
+            <not_hispanic_or_latino>30990</not_hispanic_or_latino>
+        </row>
+        <row _id="row-k2sf-yvg4_hhtx" _uuid="00000000-0000-0000-BD42-97A427A2B93D" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/07012014">
+            <record_id>07012014</record_id>
+            <date>2014-07-01T00:00:00</date>
+            <ina>7513</ina>
+            <hispanic_or_latino>1310</hispanic_or_latino>
+            <not_hispanic_or_latino>30875</not_hispanic_or_latino>
+        </row>
+        <row _id="row-5u6c~6wcg~gia3" _uuid="00000000-0000-0000-287E-0F32ABA75237" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/08012014">
+            <record_id>08012014</record_id>
+            <date>2014-08-01T00:00:00</date>
+            <ina>6901</ina>
+            <hispanic_or_latino>1212</hispanic_or_latino>
+            <not_hispanic_or_latino>27700</not_hispanic_or_latino>
+        </row>
+        <row _id="row-48p2_uuin~jxt5" _uuid="00000000-0000-0000-492C-F4C413865D46" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/09012014">
+            <record_id>09012014</record_id>
+            <date>2014-09-01T00:00:00</date>
+            <ina>6847</ina>
+            <hispanic_or_latino>1071</hispanic_or_latino>
+            <not_hispanic_or_latino>24057</not_hispanic_or_latino>
+        </row>
+        <row _id="row-mt58-xrxb~ge4m" _uuid="00000000-0000-0000-7278-B90AE7B7DC15" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/10012014">
+            <record_id>10012014</record_id>
+            <date>2014-10-01T00:00:00</date>
+            <ina>6319</ina>
+            <hispanic_or_latino>1010</hispanic_or_latino>
+            <not_hispanic_or_latino>23276</not_hispanic_or_latino>
+        </row>
+        <row _id="row-qz8y-9n69-yuby" _uuid="00000000-0000-0000-9937-392B3B4992BD" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/11012014">
+            <record_id>11012014</record_id>
+            <date>2014-11-01T00:00:00</date>
+            <ina>6233</ina>
+            <hispanic_or_latino>1171</hispanic_or_latino>
+            <not_hispanic_or_latino>24853</not_hispanic_or_latino>
+        </row>
+        <row _id="row-6u6m.ukaa-dgxs" _uuid="00000000-0000-0000-0B05-6DF3CB89F424" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/12012014">
+            <record_id>12012014</record_id>
+            <date>2014-12-01T00:00:00</date>
+            <ina>6611</ina>
+            <hispanic_or_latino>1321</hispanic_or_latino>
+            <not_hispanic_or_latino>28067</not_hispanic_or_latino>
+        </row>
+        <row _id="row-rex2~6js7~v8bd" _uuid="00000000-0000-0000-8CDA-071863E6338A" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/01012015">
+            <record_id>01012015</record_id>
+            <date>2015-01-01T00:00:00</date>
+            <ina>9232</ina>
+            <hispanic_or_latino>1928</hispanic_or_latino>
+            <not_hispanic_or_latino>38307</not_hispanic_or_latino>
+        </row>
+        <row _id="row-jxzk_bukj_yccg" _uuid="00000000-0000-0000-05E1-CFAEDC2ECB03" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/02012015">
+            <record_id>02012015</record_id>
+            <date>2015-02-01T00:00:00</date>
+            <ina>9518</ina>
+            <hispanic_or_latino>1896</hispanic_or_latino>
+            <not_hispanic_or_latino>35404</not_hispanic_or_latino>
+        </row>
+        <row _id="row-i8hn.hfrn.sete" _uuid="00000000-0000-0000-52A5-BB6B12E9E6CE" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/03012015">
+            <record_id>03012015</record_id>
+            <date>2015-03-01T00:00:00</date>
+            <ina>7361</ina>
+            <hispanic_or_latino>1588</hispanic_or_latino>
+            <not_hispanic_or_latino>30826</not_hispanic_or_latino>
+        </row>
+        <row _id="row-uch4~m7s7.xwsg" _uuid="00000000-0000-0000-784B-9662821C5465" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/04012015">
+            <record_id>04012015</record_id>
+            <date>2015-04-01T00:00:00</date>
+            <ina>6180</ina>
+            <hispanic_or_latino>1135</hispanic_or_latino>
+            <not_hispanic_or_latino>22706</not_hispanic_or_latino>
+        </row>
+        <row _id="row-p69c_g5da-rshy" _uuid="00000000-0000-0000-7E92-5B5F1721800D" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/05012015">
+            <record_id>05012015</record_id>
+            <date>2015-05-01T00:00:00</date>
+            <ina>5365</ina>
+            <hispanic_or_latino>1030</hispanic_or_latino>
+            <not_hispanic_or_latino>21333</not_hispanic_or_latino>
+        </row>
+        <row _id="row-u8hb-ahzt_6tkh" _uuid="00000000-0000-0000-52F5-F13931E3C4CF" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/06012015">
+            <record_id>06012015</record_id>
+            <date>2015-06-01T00:00:00</date>
+            <ina>6803</ina>
+            <hispanic_or_latino>1240</hispanic_or_latino>
+            <not_hispanic_or_latino>24807</not_hispanic_or_latino>
+        </row>
+        <row _id="row-cigh_bryb.fwtk" _uuid="00000000-0000-0000-5DC1-365025F7B3F0" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/07012015">
+            <record_id>07012015</record_id>
+            <date>2015-07-01T00:00:00</date>
+            <ina>7259</ina>
+            <hispanic_or_latino>1218</hispanic_or_latino>
+            <not_hispanic_or_latino>25362</not_hispanic_or_latino>
+        </row>
+        <row _id="row-m9tx~2ybz-abni" _uuid="00000000-0000-0000-64CC-2D2330CBA630" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/08012015">
+            <record_id>08012015</record_id>
+            <date>2015-08-01T00:00:00</date>
+            <ina>6974</ina>
+            <hispanic_or_latino>1154</hispanic_or_latino>
+            <not_hispanic_or_latino>24568</not_hispanic_or_latino>
+        </row>
+        <row _id="row-4u52.zn56.m8nc" _uuid="00000000-0000-0000-B88B-7AFEFC4C145D" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/09012015">
+            <record_id>09012015</record_id>
+            <date>2015-09-01T00:00:00</date>
+            <ina>5478</ina>
+            <hispanic_or_latino>967</hispanic_or_latino>
+            <not_hispanic_or_latino>19967</not_hispanic_or_latino>
+        </row>
+        <row _id="row-wnw2_f72v_w8xf" _uuid="00000000-0000-0000-39BB-FEC5FC98F95F" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/10012015">
+            <record_id>10012015</record_id>
+            <date>2015-10-01T00:00:00</date>
+            <ina>4669</ina>
+            <hispanic_or_latino>916</hispanic_or_latino>
+            <not_hispanic_or_latino>18996</not_hispanic_or_latino>
+        </row>
+        <row _id="row-8jev~jwcv.pq4w" _uuid="00000000-0000-0000-3E9E-2C943643F426" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/11012015">
+            <record_id>11012015</record_id>
+            <date>2015-11-01T00:00:00</date>
+            <ina>4477</ina>
+            <hispanic_or_latino>1007</hispanic_or_latino>
+            <not_hispanic_or_latino>20563</not_hispanic_or_latino>
+        </row>
+        <row _id="row-85md_e8um_hs6y" _uuid="00000000-0000-0000-3C91-7A08D75FFFA6" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/01012016">
+            <record_id>01012016</record_id>
+            <date>2016-01-01T00:00:00</date>
+            <ina>7464</ina>
+            <hispanic_or_latino>1762</hispanic_or_latino>
+            <not_hispanic_or_latino>32501</not_hispanic_or_latino>
+        </row>
+        <row _id="row-tszj_f8yt.2r4r" _uuid="00000000-0000-0000-FEF5-35F7F85AE56A" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/02012016">
+            <record_id>02012016</record_id>
+            <date>2016-02-01T00:00:00</date>
+            <ina>6666</ina>
+            <hispanic_or_latino>1919</hispanic_or_latino>
+            <not_hispanic_or_latino>33390</not_hispanic_or_latino>
+        </row>
+        <row _id="row-zt95_tdek_9jjp" _uuid="00000000-0000-0000-C59A-EB189E025479" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/03012016">
+            <record_id>03012016</record_id>
+            <date>2016-03-01T00:00:00</date>
+            <ina>5247</ina>
+            <hispanic_or_latino>1345</hispanic_or_latino>
+            <not_hispanic_or_latino>24972</not_hispanic_or_latino>
+        </row>
+        <row _id="row-cp98~2y3q_y33w" _uuid="00000000-0000-0000-CB56-5C4CBCDD51BD" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/04012016">
+            <record_id>04012016</record_id>
+            <date>2016-04-01T00:00:00</date>
+            <ina>3983</ina>
+            <hispanic_or_latino>920</hispanic_or_latino>
+            <not_hispanic_or_latino>17305</not_hispanic_or_latino>
+        </row>
+        <row _id="row-wdnm.9fwi-szvu" _uuid="00000000-0000-0000-DA5C-582550B39099" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/05012016">
+            <record_id>05012016</record_id>
+            <date>2016-05-01T00:00:00</date>
+            <ina>5478</ina>
+            <hispanic_or_latino>921</hispanic_or_latino>
+            <not_hispanic_or_latino>16470</not_hispanic_or_latino>
+        </row>
+        <row _id="row-c25c~4653.6fgv" _uuid="00000000-0000-0000-F657-A472B2AEEB58" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/06012016">
+            <record_id>06012016</record_id>
+            <date>2016-06-01T00:00:00</date>
+            <ina>4967</ina>
+            <hispanic_or_latino>1003</hispanic_or_latino>
+            <not_hispanic_or_latino>19434</not_hispanic_or_latino>
+        </row>
+        <row _id="row-xb9c~nvcu.vezq" _uuid="00000000-0000-0000-22E5-DE449831A251" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/08012016">
+            <record_id>08012016</record_id>
+            <date>2016-08-01T00:00:00</date>
+            <ina>5511</ina>
+            <hispanic_or_latino>1346</hispanic_or_latino>
+            <not_hispanic_or_latino>24687</not_hispanic_or_latino>
+        </row>
+        <row _id="row-vzr4-dp5e.57ct" _uuid="00000000-0000-0000-ECF7-DAFE9444EA1B" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/09012016">
+            <record_id>09012016</record_id>
+            <date>2016-09-01T00:00:00</date>
+            <ina>4085</ina>
+            <hispanic_or_latino>1059</hispanic_or_latino>
+            <not_hispanic_or_latino>19745</not_hispanic_or_latino>
+        </row>
+        <row _id="row-ukn8_5f4j-tkmj" _uuid="00000000-0000-0000-3E98-167A0FAC6E0B" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/12012016">
+            <record_id>12012016</record_id>
+            <date>2016-12-01T00:00:00</date>
+            <ina>4221</ina>
+            <hispanic_or_latino>1191</hispanic_or_latino>
+            <not_hispanic_or_latino>23429</not_hispanic_or_latino>
+        </row>
+        <row _id="row-a5d7-a8qu.ap9w" _uuid="00000000-0000-0000-592B-F381D4196472" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/01012017">
+            <record_id>01012017</record_id>
+            <date>2017-01-01T00:00:00</date>
+            <ina>5584</ina>
+            <hispanic_or_latino>1676</hispanic_or_latino>
+            <not_hispanic_or_latino>30172</not_hispanic_or_latino>
+        </row>
+        <row _id="row-9bjc~hrt8-wwrs" _uuid="00000000-0000-0000-7929-15A6CA458945" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/02012017">
+            <record_id>02012017</record_id>
+            <date>2017-02-01T00:00:00</date>
+            <ina>5938</ina>
+            <hispanic_or_latino>1490</hispanic_or_latino>
+            <not_hispanic_or_latino>27230</not_hispanic_or_latino>
+        </row>
+        <row _id="row-ivf3-ki2a_e4fu" _uuid="00000000-0000-0000-DDC5-A9E3391A50CC" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/03012017">
+            <record_id>03012017</record_id>
+            <date>2017-03-01T00:00:00</date>
+            <ina>5276</ina>
+            <hispanic_or_latino>1281</hispanic_or_latino>
+            <not_hispanic_or_latino>23558</not_hispanic_or_latino>
+        </row>
+        <row _id="row-ensu~r77u_pv38" _uuid="00000000-0000-0000-135A-82302DE14317" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/04012017">
+            <record_id>04012017</record_id>
+            <date>2017-04-01T00:00:00</date>
+            <ina>4185</ina>
+            <hispanic_or_latino>952</hispanic_or_latino>
+            <not_hispanic_or_latino>18957</not_hispanic_or_latino>
+        </row>
+        <row _id="row-5hab.ae37~ujjn" _uuid="00000000-0000-0000-2006-392A84636CEC" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/05012017">
+            <record_id>05012017</record_id>
+            <date>2017-05-01T00:00:00</date>
+            <ina>4093</ina>
+            <hispanic_or_latino>960</hispanic_or_latino>
+            <not_hispanic_or_latino>18388</not_hispanic_or_latino>
+        </row>
+        <row _id="row-b35y_h2um~dt4z" _uuid="00000000-0000-0000-4333-562E718E383D" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/06012017">
+            <record_id>06012017</record_id>
+            <date>2017-06-01T00:00:00</date>
+            <ina>5113</ina>
+            <hispanic_or_latino>1108</hispanic_or_latino>
+            <not_hispanic_or_latino>21465</not_hispanic_or_latino>
+        </row>
+        <row _id="row-rzsh~byh2_6ir4" _uuid="00000000-0000-0000-22D4-7C2DF2C9AD21" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/07012017">
+            <record_id>07012017</record_id>
+            <date>2017-07-01T00:00:00</date>
+            <ina>6301</ina>
+            <hispanic_or_latino>1308</hispanic_or_latino>
+            <not_hispanic_or_latino>24232</not_hispanic_or_latino>
+        </row>
+        <row _id="row-mzng_z4ce_iezh" _uuid="00000000-0000-0000-5C9C-81C2096C0E52" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/08012017">
+            <record_id>08012017</record_id>
+            <date>2017-08-01T00:00:00</date>
+            <ina>5277</ina>
+            <hispanic_or_latino>1106</hispanic_or_latino>
+            <not_hispanic_or_latino>21902</not_hispanic_or_latino>
+        </row>
+        <row _id="row-t2f4.qduv~qk5h" _uuid="00000000-0000-0000-09AB-95AFCB449D8B" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/09012017">
+            <record_id>09012017</record_id>
+            <date>2017-09-01T00:00:00</date>
+            <ina>3798</ina>
+            <hispanic_or_latino>843</hispanic_or_latino>
+            <not_hispanic_or_latino>16104</not_hispanic_or_latino>
+        </row>
+        <row _id="row-uj5s~fbtx_ca9a" _uuid="00000000-0000-0000-A7E8-583EEE05A2E0" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/10012017">
+            <record_id>10012017</record_id>
+            <date>2017-10-01T00:00:00</date>
+            <ina>5263</ina>
+            <hispanic_or_latino>1044</hispanic_or_latino>
+            <not_hispanic_or_latino>18825</not_hispanic_or_latino>
+        </row>
+        <row _id="row-e9y5-qawh_dfsi" _uuid="00000000-0000-0000-A2CC-D4281C233F35" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/11012017">
+            <record_id>11012017</record_id>
+            <date>2017-11-01T00:00:00</date>
+            <ina>5205</ina>
+            <hispanic_or_latino>1022</hispanic_or_latino>
+            <not_hispanic_or_latino>18631</not_hispanic_or_latino>
+        </row>
+        <row _id="row-xpjs~g6eu_t72i" _uuid="00000000-0000-0000-A184-99952ADA1F67" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/12012017">
+            <record_id>12012017</record_id>
+            <date>2017-12-01T00:00:00</date>
+            <ina>4567</ina>
+            <hispanic_or_latino>1085</hispanic_or_latino>
+            <not_hispanic_or_latino>20658</not_hispanic_or_latino>
+        </row>
+        <row _id="row-2zfi.84si-qi9t" _uuid="00000000-0000-0000-404F-2E14D11CB23C" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/01012018">
+            <record_id>01012018</record_id>
+            <date>2018-01-01T00:00:00</date>
+            <ina>6026</ina>
+            <hispanic_or_latino>1632</hispanic_or_latino>
+            <not_hispanic_or_latino>29326</not_hispanic_or_latino>
+        </row>
+        <row _id="row-zct4-v55z~w3x6" _uuid="00000000-0000-0000-1A80-9ADEE481DD3D" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/02012018">
+            <record_id>02012018</record_id>
+            <date>2018-02-01T00:00:00</date>
+            <ina>5573</ina>
+            <hispanic_or_latino>1464</hispanic_or_latino>
+            <not_hispanic_or_latino>25965</not_hispanic_or_latino>
+        </row>
+        <row _id="row-7iqy.q9gp_9ti7" _uuid="00000000-0000-0000-6803-34212C7301BA" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/03012018">
+            <record_id>03012018</record_id>
+            <date>2018-03-01T00:00:00</date>
+            <ina>4660</ina>
+            <hispanic_or_latino>1133</hispanic_or_latino>
+            <not_hispanic_or_latino>20438</not_hispanic_or_latino>
+        </row>
+        <row _id="row-rmbf~kuqg~2qp6" _uuid="00000000-0000-0000-B492-EFDC3221AC4E" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/04012018">
+            <record_id>04012018</record_id>
+            <date>2018-04-01T00:00:00</date>
+            <ina>3907</ina>
+            <hispanic_or_latino>926</hispanic_or_latino>
+            <not_hispanic_or_latino>16995</not_hispanic_or_latino>
+        </row>
+        <row _id="row-zwvq-7q79_wb6r" _uuid="00000000-0000-0000-B2EC-02B1EF313FD5" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/05012018">
+            <record_id>05012018</record_id>
+            <date>2018-05-01T00:00:00</date>
+            <ina>5109</ina>
+            <hispanic_or_latino>983</hispanic_or_latino>
+            <not_hispanic_or_latino>17478</not_hispanic_or_latino>
+        </row>
+        <row _id="row-5de2-dj5u.s7dg" _uuid="00000000-0000-0000-3AA7-C708045B7E8B" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/06012018">
+            <record_id>06012018</record_id>
+            <date>2018-06-01T00:00:00</date>
+            <ina>4491</ina>
+            <hispanic_or_latino>997</hispanic_or_latino>
+            <not_hispanic_or_latino>18918</not_hispanic_or_latino>
+        </row>
+        <row _id="row-ywzc.wxvt-m6xs" _uuid="00000000-0000-0000-AED1-F4041818E653" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/07012018">
+            <record_id>07012018</record_id>
+            <date>2018-07-01T00:00:00</date>
+            <ina>5136</ina>
+            <hispanic_or_latino>1109</hispanic_or_latino>
+            <not_hispanic_or_latino>20878</not_hispanic_or_latino>
+        </row>
+        <row _id="row-q6qh-ba88~eb2m" _uuid="00000000-0000-0000-80D1-B9ECCC7C558B" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/08012018">
+            <record_id>08012018</record_id>
+            <date>2018-08-01T00:00:00</date>
+            <ina>3874</ina>
+            <hispanic_or_latino>857</hispanic_or_latino>
+            <not_hispanic_or_latino>16703</not_hispanic_or_latino>
+        </row>
+        <row _id="row-ymvs~2hdu-kc3u" _uuid="00000000-0000-0000-A9C4-250A48981F77" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/09012018">
+            <record_id>09012018</record_id>
+            <date>2018-09-01T00:00:00</date>
+            <ina>3367</ina>
+            <hispanic_or_latino>755</hispanic_or_latino>
+            <not_hispanic_or_latino>14006</not_hispanic_or_latino>
+        </row>
+        <row _id="row-65wv-2svf_968e" _uuid="00000000-0000-0000-F629-0E8454B45626" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/10012018">
+            <record_id>10012018</record_id>
+            <date>2018-10-01T00:00:00</date>
+            <ina>3251</ina>
+            <hispanic_or_latino>816</hispanic_or_latino>
+            <not_hispanic_or_latino>14162</not_hispanic_or_latino>
+        </row>
+        <row _id="row-ryrs-ycie.vp4d" _uuid="00000000-0000-0000-8462-898B40CD80CD" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/11012018">
+            <record_id>11012018</record_id>
+            <date>2018-11-01T00:00:00</date>
+            <ina>3431</ina>
+            <hispanic_or_latino>815</hispanic_or_latino>
+            <not_hispanic_or_latino>14719</not_hispanic_or_latino>
+        </row>
+        <row _id="row-sz6k_e8wy~qbfa" _uuid="00000000-0000-0000-D5E5-93EF7E089C6C" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/12012018">
+            <record_id>12012018</record_id>
+            <date>2018-12-01T00:00:00</date>
+            <ina>4229</ina>
+            <hispanic_or_latino>1105</hispanic_or_latino>
+            <not_hispanic_or_latino>17480</not_hispanic_or_latino>
+        </row>
+        <row _id="row-ucgc~n27e.wvi5" _uuid="00000000-0000-0000-DA48-C78637DBDAF4" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/01012019">
+            <record_id>01012019</record_id>
+            <date>2019-01-01T00:00:00</date>
+            <ina>5378</ina>
+            <hispanic_or_latino>1562</hispanic_or_latino>
+            <not_hispanic_or_latino>23954</not_hispanic_or_latino>
+        </row>
+        <row _id="row-yez7-95n7~y2tk" _uuid="00000000-0000-0000-074C-E593E1884E36" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/07012019">
+            <record_id>07012019</record_id>
+            <date>2019-07-01T00:00:00</date>
+            <ina>4790</ina>
+            <hispanic_or_latino>1227</hispanic_or_latino>
+            <not_hispanic_or_latino>18828</not_hispanic_or_latino>
+        </row>
+        <row _id="row-cwzx.zpdm-4mzy" _uuid="00000000-0000-0000-6692-0756B2469329" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/08012019">
+            <record_id>08012019</record_id>
+            <date>2019-08-01T00:00:00</date>
+            <ina>3534</ina>
+            <hispanic_or_latino>864</hispanic_or_latino>
+            <not_hispanic_or_latino>14614</not_hispanic_or_latino>
+        </row>
+        <row _id="row-dy7h~c4qi-9dqv" _uuid="00000000-0000-0000-E646-EAEEAF1464CD" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/11012019">
+            <record_id>11012019</record_id>
+            <date>2019-11-01T00:00:00</date>
+            <ina>3540</ina>
+            <hispanic_or_latino>681</hispanic_or_latino>
+            <not_hispanic_or_latino>14270</not_hispanic_or_latino>
+        </row>
+        <row _id="row-dz28-hbyh.4mmt" _uuid="00000000-0000-0000-01A0-14482AC5E700" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/12012019">
+            <record_id>12012019</record_id>
+            <date>2019-12-01T00:00:00</date>
+            <ina>3558</ina>
+            <hispanic_or_latino>792</hispanic_or_latino>
+            <not_hispanic_or_latino>15760</not_hispanic_or_latino>
+        </row>
+        <row _id="row-qgvi~fvrh-2spc" _uuid="00000000-0000-0000-51D9-95A2539B8789" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/01012020">
+            <record_id>01012020</record_id>
+            <date>2020-01-01T00:00:00</date>
+            <ina>5582</ina>
+            <hispanic_or_latino>1188</hispanic_or_latino>
+            <not_hispanic_or_latino>22904</not_hispanic_or_latino>
+        </row>
+        <row _id="row-faqq~8ce6.2irf" _uuid="00000000-0000-0000-EF91-BDB8D867FE43" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/02012020">
+            <record_id>02012020</record_id>
+            <date>2020-02-01T00:00:00</date>
+            <ina>4600</ina>
+            <hispanic_or_latino>1146</hispanic_or_latino>
+            <not_hispanic_or_latino>21727</not_hispanic_or_latino>
+        </row>
+        <row _id="row-7fer.jpcy-cxnj" _uuid="00000000-0000-0000-49A5-974D3C56EFAC" _position="0" _address="https://data.mo.gov/resource/xm42-6a8n/03012020">
+            <record_id>03012020</record_id>
+            <date>2020-03-01T00:00:00</date>
+            <ina>3535</ina>
+            <hispanic_or_latino>882</hispanic_or_latino>
+            <not_hispanic_or_latino>17826</not_hispanic_or_latino>
+        </row>
+    </row>
+</response>
